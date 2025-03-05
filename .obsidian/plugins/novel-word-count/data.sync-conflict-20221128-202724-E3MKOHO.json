@@ -1,0 +1,2112 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "Strahds Lieutenants/The Warrior.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294703,
+      "modifiedDate": 1669090941097
+    },
+    "Strahds Lieutenants/The Soul Weaver.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294653,
+      "modifiedDate": 1669090883365
+    },
+    "Strahds Lieutenants/The Lady.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294720,
+      "modifiedDate": 1669090927509
+    },
+    "Strahds Lieutenants/The Puppet Master.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294559,
+      "modifiedDate": 1669090905213
+    },
+    "Strahds Lieutenants/The Duke.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294554,
+      "modifiedDate": 1669090918553
+    },
+    "Strahds Lieutenants/The Dragon.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294560,
+      "modifiedDate": 1669090934245
+    },
+    "Strahds Lieutenants/The Darkness.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1669108294624,
+      "modifiedDate": 1669090948633
+    },
+    "Planning/The Tarokka Deck.md": {
+      "noteCount": 1,
+      "wordCount": 1627,
+      "pageCount": 5.423333333333333,
+      "characterCount": 9327,
+      "nonWhitespaceCharacterCount": 7619,
+      "createdDate": 1667813611730,
+      "modifiedDate": 1667765147520
+    },
+    "Planning/Unspoken Pact.md": {
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 922,
+      "nonWhitespaceCharacterCount": 855,
+      "createdDate": 1668841689814,
+      "modifiedDate": 1668841709271
+    },
+    "Planning/Plot Plans.md": {
+      "noteCount": 1,
+      "wordCount": 496,
+      "pageCount": 1.6533333333333333,
+      "characterCount": 3125,
+      "nonWhitespaceCharacterCount": 2142,
+      "createdDate": 1667813598459,
+      "modifiedDate": 1667765147489
+    },
+    "Planning/Macabre Machinations.md": {
+      "noteCount": 1,
+      "wordCount": 868,
+      "pageCount": 2.8933333333333335,
+      "characterCount": 6519,
+      "nonWhitespaceCharacterCount": 5539,
+      "createdDate": 1667813596825,
+      "modifiedDate": 1667765147457
+    },
+    "Planning/Fighting Strahd.md": {
+      "noteCount": 1,
+      "wordCount": 3234,
+      "pageCount": 10.78,
+      "characterCount": 18316,
+      "nonWhitespaceCharacterCount": 14905,
+      "createdDate": 1667813637152,
+      "modifiedDate": 1667817512665
+    },
+    "Planning/Introduction.md": {
+      "noteCount": 1,
+      "wordCount": 659,
+      "pageCount": 2.1966666666666668,
+      "characterCount": 3960,
+      "nonWhitespaceCharacterCount": 3265,
+      "createdDate": 1667813584039,
+      "modifiedDate": 1667765147395
+    },
+    "Planning/Black Carriage.md": {
+      "noteCount": 1,
+      "wordCount": 209,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 1189,
+      "nonWhitespaceCharacterCount": 975,
+      "createdDate": 1668302375708,
+      "modifiedDate": 1668852822573
+    },
+    "Planning/Barovians.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 240,
+      "createdDate": 1667813636919,
+      "modifiedDate": 1667765147341
+    },
+    "NPC_s/Zygfrek Belview.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 591,
+      "nonWhitespaceCharacterCount": 400,
+      "createdDate": 1667813584191,
+      "modifiedDate": 1667765150347
+    },
+    "NPC_s/Zuleika Toranescu.md": {
+      "noteCount": 1,
+      "wordCount": 74,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 633,
+      "nonWhitespaceCharacterCount": 459,
+      "createdDate": 1667813570317,
+      "modifiedDate": 1667765148719
+    },
+    "NPC_s/Yolanda Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 713,
+      "nonWhitespaceCharacterCount": 524,
+      "createdDate": 1667813544081,
+      "modifiedDate": 1667765148515
+    },
+    "NPC_s/Yevgeni Krushkin.md": {
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 532,
+      "nonWhitespaceCharacterCount": 375,
+      "createdDate": 1667813543898,
+      "modifiedDate": 1667765150159
+    },
+    "NPC_s/Yeska.md": {
+      "noteCount": 1,
+      "wordCount": 136,
+      "pageCount": 0.4533333333333333,
+      "characterCount": 1838,
+      "nonWhitespaceCharacterCount": 1609,
+      "createdDate": 1667813636497,
+      "modifiedDate": 1667765148640
+    },
+    "NPC_s/Yelena Arasek.md": {
+      "noteCount": 1,
+      "wordCount": 64,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 574,
+      "nonWhitespaceCharacterCount": 412,
+      "createdDate": 1667813556264,
+      "modifiedDate": 1667765148499
+    },
+    "NPC_s/Wencensia.md": {
+      "noteCount": 1,
+      "wordCount": 58,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 500,
+      "nonWhitespaceCharacterCount": 354,
+      "createdDate": 1667813611862,
+      "modifiedDate": 1667765148782
+    },
+    "NPC_s/Willemina Rikalova.md": {
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 144,
+      "nonWhitespaceCharacterCount": 116,
+      "createdDate": 1667813569675,
+      "modifiedDate": 1667765148484
+    },
+    "NPC_s/Vladimir Horngaard.md": {
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 456,
+      "nonWhitespaceCharacterCount": 341,
+      "createdDate": 1667813583732,
+      "modifiedDate": 1667765149111
+    },
+    "NPC_s/Vilnius.md": {
+      "noteCount": 1,
+      "wordCount": 112,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 923,
+      "nonWhitespaceCharacterCount": 643,
+      "createdDate": 1667813596863,
+      "modifiedDate": 1667765148624
+    },
+    "NPC_s/Victoria.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813622990,
+      "modifiedDate": 1667765149924
+    },
+    "NPC_s/Viggo Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 433,
+      "nonWhitespaceCharacterCount": 337,
+      "createdDate": 1667813610110,
+      "modifiedDate": 1667765148562
+    },
+    "NPC_s/Victor Vallakovich.md": {
+      "noteCount": 1,
+      "wordCount": 256,
+      "pageCount": 0.8533333333333334,
+      "characterCount": 3575,
+      "nonWhitespaceCharacterCount": 3285,
+      "createdDate": 1667813556458,
+      "modifiedDate": 1667765148877
+    },
+    "NPC_s/Vasilka.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 283,
+      "nonWhitespaceCharacterCount": 230,
+      "createdDate": 1667813556709,
+      "modifiedDate": 1667765148924
+    },
+    "NPC_s/Urwin Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 98,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 830,
+      "nonWhitespaceCharacterCount": 617,
+      "createdDate": 1667813625401,
+      "modifiedDate": 1667765148531
+    },
+    "NPC_s/Udo Lukovich.md": {
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 119,
+      "nonWhitespaceCharacterCount": 103,
+      "createdDate": 1667813556301,
+      "modifiedDate": 1667765149190
+    },
+    "NPC_s/Thorn.md": {
+      "noteCount": 1,
+      "wordCount": 822,
+      "pageCount": 2.74,
+      "characterCount": 7660,
+      "nonWhitespaceCharacterCount": 6473,
+      "createdDate": 1667813556365,
+      "modifiedDate": 1667765150534
+    },
+    "NPC_s/The Abbot.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 670,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667813623176,
+      "modifiedDate": 1667765148687
+    },
+    "NPC_s/Tatyana.md": {
+      "noteCount": 1,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 142,
+      "createdDate": 1667813623383,
+      "modifiedDate": 1667765148593
+    },
+    "NPC_s/Tasha Petrovna.md": {
+      "noteCount": 1,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 201,
+      "nonWhitespaceCharacterCount": 163,
+      "createdDate": 1667813637063,
+      "modifiedDate": 1667765150284
+    },
+    "NPC_s/Szoldar Szoldarovich.md": {
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 543,
+      "nonWhitespaceCharacterCount": 375,
+      "createdDate": 1667813640999,
+      "modifiedDate": 1667765150174
+    },
+    "NPC_s/Strahd von Zarovich.md": {
+      "noteCount": 1,
+      "wordCount": 1881,
+      "pageCount": 6.27,
+      "characterCount": 11279,
+      "nonWhitespaceCharacterCount": 9255,
+      "createdDate": 1667813596774,
+      "modifiedDate": 1667765148577
+    },
+    "NPC_s/Stella Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 153,
+      "pageCount": 0.51,
+      "characterCount": 1977,
+      "nonWhitespaceCharacterCount": 1719,
+      "createdDate": 1667813556008,
+      "modifiedDate": 1667765148672
+    },
+    "NPC_s/Stefanio Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 584,
+      "nonWhitespaceCharacterCount": 466,
+      "createdDate": 1667813597941,
+      "modifiedDate": 1667765148656
+    },
+    "NPC_s/Stanimir.md": {
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 421,
+      "nonWhitespaceCharacterCount": 283,
+      "createdDate": 1667813583197,
+      "modifiedDate": 1667765149018
+    },
+    "NPC_s/Sorvia.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222690483,
+      "modifiedDate": 1668222690483
+    },
+    "NPC_s/Sergei.md": {
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 259,
+      "createdDate": 1667813641302,
+      "modifiedDate": 1667765148862
+    },
+    "NPC_s/Savid.md": {
+      "noteCount": 1,
+      "wordCount": 205,
+      "pageCount": 0.6833333333333333,
+      "characterCount": 2459,
+      "nonWhitespaceCharacterCount": 2174,
+      "createdDate": 1667813569161,
+      "modifiedDate": 1667765148986
+    },
+    "NPC_s/Rose.md": {
+      "noteCount": 1,
+      "wordCount": 779,
+      "pageCount": 2.5966666666666667,
+      "characterCount": 7228,
+      "nonWhitespaceCharacterCount": 6097,
+      "createdDate": 1667813583309,
+      "modifiedDate": 1667765148750
+    },
+    "NPC_s/Rictavio.md": {
+      "noteCount": 1,
+      "wordCount": 13,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 83,
+      "nonWhitespaceCharacterCount": 66,
+      "createdDate": 1667813560541,
+      "modifiedDate": 1667765148845
+    },
+    "NPC_s/Ratka.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 330,
+      "nonWhitespaceCharacterCount": 260,
+      "createdDate": 1667813584149,
+      "modifiedDate": 1667765149283
+    },
+    "NPC_s/Pidlwick II.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 587,
+      "nonWhitespaceCharacterCount": 412,
+      "createdDate": 1667813622926,
+      "modifiedDate": 1667765150331
+    },
+    "NPC_s/Rahadin.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 316,
+      "nonWhitespaceCharacterCount": 232,
+      "createdDate": 1667813598707,
+      "modifiedDate": 1667765150206
+    },
+    "NPC_s/Patrina Velikovna.md": {
+      "noteCount": 1,
+      "wordCount": 167,
+      "pageCount": 0.5566666666666666,
+      "characterCount": 1125,
+      "nonWhitespaceCharacterCount": 858,
+      "createdDate": 1667813623285,
+      "modifiedDate": 1667765149033
+    },
+    "NPC_s/Parriwimple.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 742,
+      "nonWhitespaceCharacterCount": 511,
+      "createdDate": 1667813569842,
+      "modifiedDate": 1667765148735
+    },
+    "NPC_s/Otto Belview.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 632,
+      "nonWhitespaceCharacterCount": 419,
+      "createdDate": 1667813543346,
+      "modifiedDate": 1667765150268
+    },
+    "NPC_s/Offalia Wormwiggle.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 326,
+      "nonWhitespaceCharacterCount": 253,
+      "createdDate": 1667813641057,
+      "modifiedDate": 1667765149080
+    },
+    "NPC_s/Nikolai Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 643,
+      "nonWhitespaceCharacterCount": 461,
+      "createdDate": 1667813588326,
+      "modifiedDate": 1667765148940
+    },
+    "NPC_s/Neferon.md": {
+      "noteCount": 1,
+      "wordCount": 77,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 658,
+      "nonWhitespaceCharacterCount": 442,
+      "createdDate": 1667813646176,
+      "modifiedDate": 1667765148767
+    },
+    "NPC_s/Myrtle.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 320,
+      "nonWhitespaceCharacterCount": 251,
+      "createdDate": 1667813564709,
+      "modifiedDate": 1667765148813
+    },
+    "NPC_s/Muriel Vinshaw.md": {
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 595,
+      "nonWhitespaceCharacterCount": 408,
+      "createdDate": 1667813625603,
+      "modifiedDate": 1667765148908
+    },
+    "NPC_s/Mother Night.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668231216685,
+      "modifiedDate": 1668231216685
+    },
+    "NPC_s/Morninglord.md": {
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 27,
+      "createdDate": 1668231200479,
+      "modifiedDate": 1668231207759
+    },
+    "NPC_s/Morgantha.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 394,
+      "nonWhitespaceCharacterCount": 313,
+      "createdDate": 1667813596614,
+      "modifiedDate": 1667765148798
+    },
+    "NPC_s/Mishka Belview.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 369,
+      "createdDate": 1667813622867,
+      "modifiedDate": 1667765150409
+    },
+    "NPC_s/Mirabel.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222687868,
+      "modifiedDate": 1668222687868
+    },
+    "NPC_s/Milivoj.md": {
+      "noteCount": 1,
+      "wordCount": 479,
+      "pageCount": 1.5966666666666667,
+      "characterCount": 2938,
+      "nonWhitespaceCharacterCount": 2340,
+      "createdDate": 1667813574694,
+      "modifiedDate": 1667765148893
+    },
+    "NPC_s/Martin Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 461,
+      "nonWhitespaceCharacterCount": 352,
+      "createdDate": 1667813584491,
+      "modifiedDate": 1667765149346
+    },
+    "NPC_s/Marzena Belview.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 462,
+      "nonWhitespaceCharacterCount": 349,
+      "createdDate": 1667813543681,
+      "modifiedDate": 1667765149236
+    },
+    "NPC_s/Marina.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 252,
+      "nonWhitespaceCharacterCount": 204,
+      "createdDate": 1667813556257,
+      "modifiedDate": 1667765149408
+    },
+    "NPC_s/Majesto.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 555,
+      "nonWhitespaceCharacterCount": 387,
+      "createdDate": 1667813615174,
+      "modifiedDate": 1667765149502
+    },
+    "NPC_s/Madam Eva.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 608,
+      "nonWhitespaceCharacterCount": 422,
+      "createdDate": 1667813598577,
+      "modifiedDate": 1667765150237
+    },
+    "NPC_s/Madalena.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813564637,
+      "modifiedDate": 1667765149878
+    },
+    "NPC_s/Mad Mary.md": {
+      "noteCount": 1,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 660,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667813636677,
+      "modifiedDate": 1667765149361
+    },
+    "NPC_s/Mad Mage (Mordenkainen).md": {
+      "noteCount": 1,
+      "wordCount": 387,
+      "pageCount": 1.29,
+      "characterCount": 5038,
+      "nonWhitespaceCharacterCount": 4619,
+      "createdDate": 1667813625510,
+      "modifiedDate": 1667765149268
+    },
+    "NPC_s/Luvash.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 662,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667813628467,
+      "modifiedDate": 1667765149143
+    },
+    "NPC_s/Lydia Petrovna.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 629,
+      "nonWhitespaceCharacterCount": 464,
+      "createdDate": 1667813598744,
+      "modifiedDate": 1667765149158
+    },
+    "NPC_s/Lief Lipsiege.md": {
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 508,
+      "nonWhitespaceCharacterCount": 347,
+      "createdDate": 1667813570010,
+      "modifiedDate": 1667765150190
+    },
+    "NPC_s/Lucian Petrovich.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 604,
+      "nonWhitespaceCharacterCount": 431,
+      "createdDate": 1667813569466,
+      "modifiedDate": 1667765148955
+    },
+    "NPC_s/Lazlo Ulrich.md": {
+      "noteCount": 1,
+      "wordCount": 80,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 611,
+      "nonWhitespaceCharacterCount": 432,
+      "createdDate": 1667813543972,
+      "modifiedDate": 1667765149049
+    },
+    "NPC_s/Leo Dilisnya.md": {
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 285,
+      "nonWhitespaceCharacterCount": 233,
+      "createdDate": 1667813543351,
+      "modifiedDate": 1667765150315
+    },
+    "NPC_s/Lars Kjurls.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 243,
+      "createdDate": 1667813637844,
+      "modifiedDate": 1667765150487
+    },
+    "NPC_s/Kolyan Indirovich.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 152,
+      "createdDate": 1667813610326,
+      "modifiedDate": 1667765148971
+    },
+    "NPC_s/Kolya.md": {
+      "noteCount": 1,
+      "wordCount": 157,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 2091,
+      "nonWhitespaceCharacterCount": 1846,
+      "createdDate": 1667813598378,
+      "modifiedDate": 1667765149065
+    },
+    "NPC_s/Kiril Stoyanovich.md": {
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 393,
+      "nonWhitespaceCharacterCount": 311,
+      "createdDate": 1667813641219,
+      "modifiedDate": 1667765149315
+    },
+    "NPC_s/King Barov.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222612575,
+      "modifiedDate": 1668222612575
+    },
+    "NPC_s/Khazan.md": {
+      "noteCount": 1,
+      "wordCount": 49,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 320,
+      "nonWhitespaceCharacterCount": 264,
+      "createdDate": 1667813584707,
+      "modifiedDate": 1667765150362
+    },
+    "NPC_s/Kellen.md": {
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 490,
+      "nonWhitespaceCharacterCount": 347,
+      "createdDate": 1667813645884,
+      "modifiedDate": 1667765149486
+    },
+    "NPC_s/Karl Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 364,
+      "nonWhitespaceCharacterCount": 289,
+      "createdDate": 1667813610201,
+      "modifiedDate": 1667765149674
+    },
+    "NPC_s/Kasimir Velikov.md": {
+      "noteCount": 1,
+      "wordCount": 86,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 480,
+      "createdDate": 1667813584192,
+      "modifiedDate": 1667765150096
+    },
+    "NPC_s/Jeny Greenteeth - DARK WITCH.md": {
+      "noteCount": 1,
+      "wordCount": 1047,
+      "pageCount": 3.49,
+      "characterCount": 5865,
+      "nonWhitespaceCharacterCount": 4621,
+      "createdDate": 1667813564780,
+      "modifiedDate": 1667765150503
+    },
+    "NPC_s/Izek Strazni.md": {
+      "noteCount": 1,
+      "wordCount": 81,
+      "pageCount": 0.27,
+      "characterCount": 676,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667813623124,
+      "modifiedDate": 1667765149205
+    },
+    "NPC_s/Isabella.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813625253,
+      "modifiedDate": 1667765149752
+    },
+    "NPC_s/Ismark Kolyanovich.md": {
+      "noteCount": 1,
+      "wordCount": 46,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 383,
+      "nonWhitespaceCharacterCount": 310,
+      "createdDate": 1667813623215,
+      "modifiedDate": 1667765149174
+    },
+    "NPC_s/Ireena Kolyana.md": {
+      "noteCount": 1,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 653,
+      "nonWhitespaceCharacterCount": 523,
+      "createdDate": 1667813569544,
+      "modifiedDate": 1667765149627
+    },
+    "NPC_s/Ilya Krezkov.md": {
+      "noteCount": 1,
+      "wordCount": 32,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 208,
+      "nonWhitespaceCharacterCount": 170,
+      "createdDate": 1667813596781,
+      "modifiedDate": 1667765149096
+    },
+    "NPC_s/Henrik van der Voort.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 277,
+      "nonWhitespaceCharacterCount": 226,
+      "createdDate": 1667813610284,
+      "modifiedDate": 1667765149814
+    },
+    "NPC_s/Helga Ruvak.md": {
+      "noteCount": 1,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 287,
+      "nonWhitespaceCharacterCount": 212,
+      "createdDate": 1667813544114,
+      "modifiedDate": 1667765150456
+    },
+    "NPC_s/Haliq.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813584742,
+      "modifiedDate": 1667765149783
+    },
+    "NPC_s/Gunther Arasek.md": {
+      "noteCount": 1,
+      "wordCount": 64,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 584,
+      "nonWhitespaceCharacterCount": 413,
+      "createdDate": 1667813641111,
+      "modifiedDate": 1667765149580
+    },
+    "NPC_s/Godfrey Gwilym.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 635,
+      "nonWhitespaceCharacterCount": 552,
+      "createdDate": 1667813643369,
+      "modifiedDate": 1667765149564
+    },
+    "NPC_s/Gertruda.md": {
+      "noteCount": 1,
+      "wordCount": 86,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 676,
+      "nonWhitespaceCharacterCount": 501,
+      "createdDate": 1667813569600,
+      "modifiedDate": 1667765149658
+    },
+    "NPC_s/Gadof Blinsky.md": {
+      "noteCount": 1,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 1076,
+      "nonWhitespaceCharacterCount": 683,
+      "createdDate": 1667813641149,
+      "modifiedDate": 1667765149611
+    },
+    "NPC_s/Freek.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 313,
+      "nonWhitespaceCharacterCount": 250,
+      "createdDate": 1667813598578,
+      "modifiedDate": 1667765149909
+    },
+    "NPC_s/Fiona Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 774,
+      "nonWhitespaceCharacterCount": 560,
+      "createdDate": 1667813611868,
+      "modifiedDate": 1667765149221
+    },
+    "NPC_s/Franz Graza.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 453,
+      "nonWhitespaceCharacterCount": 360,
+      "createdDate": 1667813584599,
+      "modifiedDate": 1667765149689
+    },
+    "NPC_s/Ezmerelda.md": {
+      "noteCount": 1,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 567,
+      "nonWhitespaceCharacterCount": 395,
+      "createdDate": 1667813584068,
+      "modifiedDate": 1667765149736
+    },
+    "NPC_s/Exethanter.md": {
+      "noteCount": 1,
+      "wordCount": 587,
+      "pageCount": 1.9566666666666668,
+      "characterCount": 7067,
+      "nonWhitespaceCharacterCount": 6368,
+      "createdDate": 1667813637259,
+      "modifiedDate": 1667765150425
+    },
+    "NPC_s/Escher.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 542,
+      "nonWhitespaceCharacterCount": 376,
+      "createdDate": 1667813564692,
+      "modifiedDate": 1667765150299
+    },
+    "NPC_s/Esmerelda d_Avenir.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813576093,
+      "modifiedDate": 1667765148452
+    },
+    "NPC_s/Ernst Larnak.md": {
+      "noteCount": 1,
+      "wordCount": 79,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 647,
+      "nonWhitespaceCharacterCount": 463,
+      "createdDate": 1667813637354,
+      "modifiedDate": 1667765149252
+    },
+    "NPC_s/Emil Toranescu.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 588,
+      "nonWhitespaceCharacterCount": 419,
+      "createdDate": 1667813611692,
+      "modifiedDate": 1667765149518
+    },
+    "NPC_s/Elvir Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 83,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 764,
+      "nonWhitespaceCharacterCount": 535,
+      "createdDate": 1667813543365,
+      "modifiedDate": 1667765149940
+    },
+    "NPC_s/Dr. Rudolph van Richten.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 580,
+      "nonWhitespaceCharacterCount": 387,
+      "createdDate": 1667813583927,
+      "modifiedDate": 1667765150440
+    },
+    "NPC_s/Doru.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 379,
+      "nonWhitespaceCharacterCount": 297,
+      "createdDate": 1667813584904,
+      "modifiedDate": 1667765149830
+    },
+    "NPC_s/Donavich.md": {
+      "noteCount": 1,
+      "wordCount": 115,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 881,
+      "nonWhitespaceCharacterCount": 657,
+      "createdDate": 1667813583616,
+      "modifiedDate": 1667765149299
+    },
+    "NPC_s/Dmitri Krezkov.md": {
+      "noteCount": 1,
+      "wordCount": 149,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 2019,
+      "nonWhitespaceCharacterCount": 1827,
+      "createdDate": 1667813556625,
+      "modifiedDate": 1667765149424
+    },
+    "NPC_s/Dhavit.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813583281,
+      "modifiedDate": 1667765149643
+    },
+    "NPC_s/Davian Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 746,
+      "nonWhitespaceCharacterCount": 545,
+      "createdDate": 1667813640869,
+      "modifiedDate": 1667765149377
+    },
+    "NPC_s/Danika Dorakova.md": {
+      "noteCount": 1,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 341,
+      "nonWhitespaceCharacterCount": 271,
+      "createdDate": 1667813625599,
+      "modifiedDate": 1667765149393
+    },
+    "NPC_s/Dalvan Olensky.md": {
+      "noteCount": 1,
+      "wordCount": 119,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 657,
+      "nonWhitespaceCharacterCount": 537,
+      "createdDate": 1667813625716,
+      "modifiedDate": 1667765149862
+    },
+    "NPC_s/Damia.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 271,
+      "createdDate": 1667813636713,
+      "modifiedDate": 1667765149440
+    },
+    "NPC_s/Dag Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 153,
+      "pageCount": 0.51,
+      "characterCount": 2074,
+      "nonWhitespaceCharacterCount": 1740,
+      "createdDate": 1667813611732,
+      "modifiedDate": 1667765149893
+    },
+    "NPC_s/Cyrus Belview.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 319,
+      "nonWhitespaceCharacterCount": 235,
+      "createdDate": 1667813584457,
+      "modifiedDate": 1667765150581
+    },
+    "NPC_s/Clovin Belview.md": {
+      "noteCount": 1,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 511,
+      "nonWhitespaceCharacterCount": 398,
+      "createdDate": 1667813584419,
+      "modifiedDate": 1667765149471
+    },
+    "NPC_s/Claudiu Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 640,
+      "nonWhitespaceCharacterCount": 466,
+      "createdDate": 1667813574992,
+      "modifiedDate": 1667765149846
+    },
+    "NPC_s/Brom Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 363,
+      "nonWhitespaceCharacterCount": 289,
+      "createdDate": 1667813640906,
+      "modifiedDate": 1667765149549
+    },
+    "NPC_s/Bray Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 390,
+      "nonWhitespaceCharacterCount": 316,
+      "createdDate": 1667813543641,
+      "modifiedDate": 1667765150065
+    },
+    "NPC_s/Boris.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813640821,
+      "modifiedDate": 1667765149987
+    },
+    "NPC_s/Bildrath Cantemir.md": {
+      "noteCount": 1,
+      "wordCount": 79,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 711,
+      "nonWhitespaceCharacterCount": 476,
+      "createdDate": 1667813556456,
+      "modifiedDate": 1667765149768
+    },
+    "NPC_s/Bluto Krogarov.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 586,
+      "nonWhitespaceCharacterCount": 402,
+      "createdDate": 1667813584308,
+      "modifiedDate": 1667765149705
+    },
+    "NPC_s/Bianca.md": {
+      "noteCount": 1,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 605,
+      "nonWhitespaceCharacterCount": 424,
+      "createdDate": 1667813543925,
+      "modifiedDate": 1667765150002
+    },
+    "NPC_s/Bella Sunbane.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 304,
+      "nonWhitespaceCharacterCount": 227,
+      "createdDate": 1667813625345,
+      "modifiedDate": 1667765149956
+    },
+    "NPC_s/Baron Vargas Vallakovich.md": {
+      "noteCount": 1,
+      "wordCount": 152,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 1305,
+      "nonWhitespaceCharacterCount": 1034,
+      "createdDate": 1667813556266,
+      "modifiedDate": 1667765150018
+    },
+    "NPC_s/Artimus.md": {
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 261,
+      "createdDate": 1667813556416,
+      "modifiedDate": 1667765150519
+    },
+    "NPC_s/Baba Lysaga.md": {
+      "noteCount": 1,
+      "wordCount": 75,
+      "pageCount": 0.25,
+      "characterCount": 647,
+      "nonWhitespaceCharacterCount": 399,
+      "createdDate": 1667813556659,
+      "modifiedDate": 1667765150565
+    },
+    "NPC_s/Arrigal.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 611,
+      "nonWhitespaceCharacterCount": 448,
+      "createdDate": 1667813636919,
+      "modifiedDate": 1667765150252
+    },
+    "NPC_s/Arik Lorensk.md": {
+      "noteCount": 1,
+      "wordCount": 146,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 1976,
+      "nonWhitespaceCharacterCount": 1691,
+      "createdDate": 1667813644447,
+      "modifiedDate": 1667765150049
+    },
+    "NPC_s/Arabelle.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 315,
+      "nonWhitespaceCharacterCount": 241,
+      "createdDate": 1667813623382,
+      "modifiedDate": 1667765150034
+    },
+    "NPC_s/Argynvost.md": {
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 216,
+      "nonWhitespaceCharacterCount": 165,
+      "createdDate": 1667813637191,
+      "modifiedDate": 1667765150394
+    },
+    "NPC_s/Angelika Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 370,
+      "nonWhitespaceCharacterCount": 308,
+      "createdDate": 1667813611807,
+      "modifiedDate": 1667765150112
+    },
+    "NPC_s/Anna Krezkova.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 2343,
+      "nonWhitespaceCharacterCount": 2043,
+      "createdDate": 1667813569309,
+      "modifiedDate": 1667765150127
+    },
+    "NPC_s/Amalthia.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813625325,
+      "modifiedDate": 1667765149799
+    },
+    "NPC_s/Alenka.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222685550,
+      "modifiedDate": 1668222685550
+    },
+    "NPC_s/Alek.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813544141,
+      "modifiedDate": 1667765149736
+    },
+    "NPC_s/Alexei.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 323,
+      "nonWhitespaceCharacterCount": 252,
+      "createdDate": 1667813625677,
+      "modifiedDate": 1667765150143
+    },
+    "NPC_s/Adrian Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 358,
+      "createdDate": 1667813569252,
+      "modifiedDate": 1667765149971
+    },
+    "Items/Tome of Strahd.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813584110,
+      "modifiedDate": 1667765147122
+    },
+    "Items/Sunsword.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813636973,
+      "modifiedDate": 1667765147091
+    },
+    "Items/Strahd's Invitation.md": {
+      "noteCount": 1,
+      "wordCount": 114,
+      "pageCount": 0.38,
+      "characterCount": 773,
+      "nonWhitespaceCharacterCount": 655,
+      "createdDate": 1667813556507,
+      "modifiedDate": 1667765147279
+    },
+    "Items/Kolyan Indirovich's Letter (Version 2).md": {
+      "noteCount": 1,
+      "wordCount": 150,
+      "pageCount": 0.5,
+      "characterCount": 1019,
+      "nonWhitespaceCharacterCount": 864,
+      "createdDate": 1667813597850,
+      "modifiedDate": 1667765147185
+    },
+    "Items/Kolyan Indirovich's Letter (Version 1).md": {
+      "noteCount": 1,
+      "wordCount": 120,
+      "pageCount": 0.4,
+      "characterCount": 819,
+      "nonWhitespaceCharacterCount": 693,
+      "createdDate": 1667813583794,
+      "modifiedDate": 1667765147263
+    },
+    "Items/Journal of Rudolph van Richten.md": {
+      "noteCount": 1,
+      "wordCount": 786,
+      "pageCount": 2.62,
+      "characterCount": 4308,
+      "nonWhitespaceCharacterCount": 3503,
+      "createdDate": 1667813622946,
+      "modifiedDate": 1667765147154
+    },
+    "Items/Journal of Argynvost.md": {
+      "noteCount": 1,
+      "wordCount": 190,
+      "pageCount": 0.6333333333333333,
+      "characterCount": 1013,
+      "nonWhitespaceCharacterCount": 824,
+      "createdDate": 1667813570511,
+      "modifiedDate": 1667765147216
+    },
+    "Items/Holy Symbol of Ravenkind.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813637263,
+      "modifiedDate": 1667765147107
+    },
+    "Items/From the Tome of Strahd.md": {
+      "noteCount": 1,
+      "wordCount": 559,
+      "pageCount": 1.8633333333333333,
+      "characterCount": 3630,
+      "nonWhitespaceCharacterCount": 3066,
+      "createdDate": 1667813623442,
+      "modifiedDate": 1667765147294
+    },
+    "Items/Blood Spear.md": {
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 210,
+      "nonWhitespaceCharacterCount": 197,
+      "createdDate": 1667813570542,
+      "modifiedDate": 1667765147169
+    },
+    "Items/Esmerelda's Journal.md": {
+      "noteCount": 1,
+      "wordCount": 1106,
+      "pageCount": 3.6866666666666665,
+      "characterCount": 6316,
+      "nonWhitespaceCharacterCount": 5167,
+      "createdDate": 1667813570743,
+      "modifiedDate": 1668230263178
+    },
+    "Locations/Yester Hill.md": {
+      "noteCount": 1,
+      "wordCount": 97,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 628,
+      "nonWhitespaceCharacterCount": 513,
+      "createdDate": 1667813544083,
+      "modifiedDate": 1667765148249
+    },
+    "Locations/Werewolf Den.md": {
+      "noteCount": 1,
+      "wordCount": 140,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 939,
+      "nonWhitespaceCharacterCount": 778,
+      "createdDate": 1667813598095,
+      "modifiedDate": 1667765147874
+    },
+    "Locations/Wizard of Wines.md": {
+      "noteCount": 1,
+      "wordCount": 180,
+      "pageCount": 0.6,
+      "characterCount": 1335,
+      "nonWhitespaceCharacterCount": 1107,
+      "createdDate": 1667813556542,
+      "modifiedDate": 1668995535501
+    },
+    "Locations/Waterdeep.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668162964218,
+      "modifiedDate": 1668162964218
+    },
+    "Locations/Wachterhaus.md": {
+      "noteCount": 1,
+      "wordCount": 340,
+      "pageCount": 1.1333333333333333,
+      "characterCount": 2652,
+      "nonWhitespaceCharacterCount": 2057,
+      "createdDate": 1667813556010,
+      "modifiedDate": 1667765147786
+    },
+    "Locations/Vistani Camp.md": {
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 841,
+      "nonWhitespaceCharacterCount": 710,
+      "createdDate": 1667813598229,
+      "modifiedDate": 1667765147937
+    },
+    "Locations/Village of Barovia.md": {
+      "noteCount": 1,
+      "wordCount": 1043,
+      "pageCount": 3.4766666666666666,
+      "characterCount": 6498,
+      "nonWhitespaceCharacterCount": 5266,
+      "createdDate": 1668845073425,
+      "modifiedDate": 1668920556358
+    },
+    "Locations/Van Richtens Tower.md": {
+      "noteCount": 1,
+      "wordCount": 221,
+      "pageCount": 0.7366666666666667,
+      "characterCount": 1618,
+      "nonWhitespaceCharacterCount": 1284,
+      "createdDate": 1667813584635,
+      "modifiedDate": 1667765148343
+    },
+    "Locations/Vallaki.md": {
+      "noteCount": 1,
+      "wordCount": 317,
+      "pageCount": 1.0566666666666666,
+      "characterCount": 2108,
+      "nonWhitespaceCharacterCount": 1734,
+      "createdDate": 1667813583892,
+      "modifiedDate": 1667765148296
+    },
+    "Locations/Tsolenka Pass.md": {
+      "noteCount": 1,
+      "wordCount": 299,
+      "pageCount": 0.9966666666666667,
+      "characterCount": 2408,
+      "nonWhitespaceCharacterCount": 1913,
+      "createdDate": 1667813570248,
+      "modifiedDate": 1667765148015
+    },
+    "Locations/Tser Pool Encampment.md": {
+      "noteCount": 1,
+      "wordCount": 970,
+      "pageCount": 3.2333333333333334,
+      "characterCount": 5561,
+      "nonWhitespaceCharacterCount": 4566,
+      "createdDate": 1667813570132,
+      "modifiedDate": 1668852150122
+    },
+    "Locations/Tser Falls.md": {
+      "noteCount": 1,
+      "wordCount": 211,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 1367,
+      "nonWhitespaceCharacterCount": 1147,
+      "createdDate": 1667813598269,
+      "modifiedDate": 1668852679620
+    },
+    "Locations/Town Square.md": {
+      "noteCount": 1,
+      "wordCount": 56,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 365,
+      "nonWhitespaceCharacterCount": 304,
+      "createdDate": 1667813543721,
+      "modifiedDate": 1667765148156
+    },
+    "Locations/Tiger Tiger.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813574608,
+      "modifiedDate": 1667765147582
+    },
+    "Locations/Svalich Woods.md": {
+      "noteCount": 1,
+      "wordCount": 385,
+      "pageCount": 1.2833333333333334,
+      "characterCount": 2144,
+      "nonWhitespaceCharacterCount": 1747,
+      "createdDate": 1667813637362,
+      "modifiedDate": 1668844960600
+    },
+    "Locations/St Andrals Feast.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 4,
+      "nonWhitespaceCharacterCount": 4,
+      "createdDate": 1667813570682,
+      "modifiedDate": 1667765147953
+    },
+    "Locations/St Andrals Church.md": {
+      "noteCount": 1,
+      "wordCount": 144,
+      "pageCount": 0.48,
+      "characterCount": 985,
+      "nonWhitespaceCharacterCount": 808,
+      "createdDate": 1667813569946,
+      "modifiedDate": 1667765147676
+    },
+    "Locations/River Ivlis.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 280,
+      "createdDate": 1667813570392,
+      "modifiedDate": 1668845070685
+    },
+    "Locations/River Ivlis Crossroads.md": {
+      "noteCount": 1,
+      "wordCount": 343,
+      "pageCount": 1.1433333333333333,
+      "characterCount": 2008,
+      "nonWhitespaceCharacterCount": 1646,
+      "createdDate": 1667813641111,
+      "modifiedDate": 1668845277230
+    },
+    "Locations/Raven River Crossroads.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1098,
+      "nonWhitespaceCharacterCount": 906,
+      "createdDate": 1667813636606,
+      "modifiedDate": 1668920000107
+    },
+    "Locations/Old Svalich Road.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 342,
+      "nonWhitespaceCharacterCount": 279,
+      "createdDate": 1667813645855,
+      "modifiedDate": 1668302709835
+    },
+    "Locations/Old Bonegrinder.md": {
+      "noteCount": 1,
+      "wordCount": 60,
+      "pageCount": 0.2,
+      "characterCount": 545,
+      "nonWhitespaceCharacterCount": 471,
+      "createdDate": 1667813570632,
+      "modifiedDate": 1667765147770
+    },
+    "Locations/Mount Ghakis.md": {
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 90,
+      "createdDate": 1667813636649,
+      "modifiedDate": 1667765148140
+    },
+    "Locations/Mount Baratok.md": {
+      "noteCount": 1,
+      "wordCount": 1045,
+      "pageCount": 3.4833333333333334,
+      "characterCount": 6150,
+      "nonWhitespaceCharacterCount": 5090,
+      "createdDate": 1667813596946,
+      "modifiedDate": 1668918631132
+    },
+    "Locations/Map.md": {
+      "noteCount": 1,
+      "wordCount": 299,
+      "pageCount": 0.9966666666666667,
+      "characterCount": 2410,
+      "nonWhitespaceCharacterCount": 1809,
+      "createdDate": 1667813556127,
+      "modifiedDate": 1668845084631
+    },
+    "Locations/Mad Mary's Townhouse.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222680000,
+      "modifiedDate": 1668222680000
+    },
+    "Locations/Mad Mage of Mount Baratok.md": {
+      "noteCount": 1,
+      "wordCount": 123,
+      "pageCount": 0.41,
+      "characterCount": 955,
+      "nonWhitespaceCharacterCount": 674,
+      "createdDate": 1667813636936,
+      "modifiedDate": 1667765148437
+    },
+    "Locations/Luna River Crossroads.md": {
+      "noteCount": 1,
+      "wordCount": 237,
+      "pageCount": 0.79,
+      "characterCount": 1439,
+      "nonWhitespaceCharacterCount": 1199,
+      "createdDate": 1667813598341,
+      "modifiedDate": 1668919810452
+    },
+    "Locations/Lake Zarovich.md": {
+      "noteCount": 1,
+      "wordCount": 418,
+      "pageCount": 1.3933333333333333,
+      "characterCount": 2581,
+      "nonWhitespaceCharacterCount": 2146,
+      "createdDate": 1667813574604,
+      "modifiedDate": 1668855694896
+    },
+    "Locations/Krezk.md": {
+      "noteCount": 1,
+      "wordCount": 70,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 451,
+      "nonWhitespaceCharacterCount": 367,
+      "createdDate": 1667813646281,
+      "modifiedDate": 1667765148218
+    },
+    "Locations/Lake Baratok.md": {
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 55,
+      "nonWhitespaceCharacterCount": 44,
+      "createdDate": 1667813623118,
+      "modifiedDate": 1667765148421
+    },
+    "Locations/Haunted House.md": {
+      "noteCount": 1,
+      "wordCount": 1056,
+      "pageCount": 3.52,
+      "characterCount": 6812,
+      "nonWhitespaceCharacterCount": 5666,
+      "createdDate": 1667813556623,
+      "modifiedDate": 1667765148078
+    },
+    "Locations/Gates of Ravenloft.md": {
+      "noteCount": 1,
+      "wordCount": 354,
+      "pageCount": 1.18,
+      "characterCount": 2043,
+      "nonWhitespaceCharacterCount": 1685,
+      "createdDate": 1667813625440,
+      "modifiedDate": 1668853073668
+    },
+    "Locations/Gates of Barovia.md": {
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1207,
+      "nonWhitespaceCharacterCount": 991,
+      "createdDate": 1667813570741,
+      "modifiedDate": 1668844670965
+    },
+    "Locations/Festival of the Blazing Sun.md": {
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 89,
+      "nonWhitespaceCharacterCount": 73,
+      "createdDate": 1667813598054,
+      "modifiedDate": 1667765148281
+    },
+    "Locations/Death House.md": {
+      "noteCount": 1,
+      "wordCount": 1045,
+      "pageCount": 3.4833333333333334,
+      "characterCount": 6484,
+      "nonWhitespaceCharacterCount": 5357,
+      "createdDate": 1667813644280,
+      "modifiedDate": 1667765147890
+    },
+    "Locations/Church.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 302,
+      "nonWhitespaceCharacterCount": 246,
+      "createdDate": 1667813646231,
+      "modifiedDate": 1667765148359
+    },
+    "Locations/Coffin Makers Shop.md": {
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1378,
+      "nonWhitespaceCharacterCount": 1061,
+      "createdDate": 1667813584526,
+      "modifiedDate": 1667765147811
+    },
+    "Locations/Castle Ravenloft.md": {
+      "noteCount": 1,
+      "wordCount": 149,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 1067,
+      "nonWhitespaceCharacterCount": 463,
+      "createdDate": 1667813574492,
+      "modifiedDate": 1667765148312
+    },
+    "Locations/Burgomaster's Mansion.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222683112,
+      "modifiedDate": 1668222683112
+    },
+    "Locations/Burgomasters Mansion.md": {
+      "noteCount": 1,
+      "wordCount": 237,
+      "pageCount": 0.79,
+      "characterCount": 1920,
+      "nonWhitespaceCharacterCount": 1613,
+      "createdDate": 1667813544008,
+      "modifiedDate": 1667765147826
+    },
+    "Locations/Blue Water Inn.md": {
+      "noteCount": 1,
+      "wordCount": 141,
+      "pageCount": 0.47,
+      "characterCount": 1126,
+      "nonWhitespaceCharacterCount": 945,
+      "createdDate": 1667813584342,
+      "modifiedDate": 1667765147984
+    },
+    "Locations/Blood of the Vine Tavern.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813623055,
+      "modifiedDate": 1667765147598
+    },
+    "Locations/Blinsky Toys.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 464,
+      "nonWhitespaceCharacterCount": 379,
+      "createdDate": 1667813597106,
+      "modifiedDate": 1667765148046
+    },
+    "Locations/Bildrath's Mercantile.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222676181,
+      "modifiedDate": 1668222676181
+    },
+    "Locations/Berez.md": {
+      "noteCount": 1,
+      "wordCount": 257,
+      "pageCount": 0.8566666666666667,
+      "characterCount": 1727,
+      "nonWhitespaceCharacterCount": 1435,
+      "createdDate": 1667813637060,
+      "modifiedDate": 1667765148187
+    },
+    "Locations/Barovia.md": {
+      "noteCount": 1,
+      "wordCount": 1701,
+      "pageCount": 5.67,
+      "characterCount": 10055,
+      "nonWhitespaceCharacterCount": 8289,
+      "createdDate": 1667813569807,
+      "modifiedDate": 1668920220125
+    },
+    "Locations/Balinok Mountains.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222615771,
+      "modifiedDate": 1668222615771
+    },
+    "Locations/Argynvostholt.md": {
+      "noteCount": 1,
+      "wordCount": 479,
+      "pageCount": 1.5966666666666667,
+      "characterCount": 3470,
+      "nonWhitespaceCharacterCount": 2774,
+      "createdDate": 1667813645952,
+      "modifiedDate": 1667765147754
+    },
+    "Locations/Baba Lysagas creeping hut.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813636786,
+      "modifiedDate": 1667765147984
+    },
+    "Locations/Arasek Stockyard.md": {
+      "noteCount": 1,
+      "wordCount": 139,
+      "pageCount": 0.4633333333333333,
+      "characterCount": 1375,
+      "nonWhitespaceCharacterCount": 931,
+      "createdDate": 1667813544183,
+      "modifiedDate": 1667765148062
+    },
+    "Locations/Amber Temple.md": {
+      "noteCount": 1,
+      "wordCount": 103,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 564,
+      "createdDate": 1667813569415,
+      "modifiedDate": 1667765148265
+    },
+    "Locations/Abbey of Saint Markovia.md": {
+      "noteCount": 1,
+      "wordCount": 375,
+      "pageCount": 1.25,
+      "characterCount": 2964,
+      "nonWhitespaceCharacterCount": 2505,
+      "createdDate": 1667813644718,
+      "modifiedDate": 1667765147723
+    },
+    "Factions/Zhentarim.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668163102629,
+      "modifiedDate": 1668163102629
+    },
+    "Factions/Vistani.md": {
+      "noteCount": 1,
+      "wordCount": 1703,
+      "pageCount": 5.676666666666667,
+      "characterCount": 10297,
+      "nonWhitespaceCharacterCount": 8538,
+      "createdDate": 1667813636446,
+      "modifiedDate": 1668302148256
+    },
+    "Factions/Sun Chantry.md": {
+      "noteCount": 1,
+      "wordCount": 680,
+      "pageCount": 2.2666666666666666,
+      "characterCount": 5184,
+      "nonWhitespaceCharacterCount": 4492,
+      "createdDate": 1668840436370,
+      "modifiedDate": 1668841810680
+    },
+    "Factions/Order of the Silver Dragon.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222547212,
+      "modifiedDate": 1668222547212
+    },
+    "Factions/Lord's Alliance.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668209137580,
+      "modifiedDate": 1668209137580
+    },
+    "Factions/Keepers of the Feather.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222485801,
+      "modifiedDate": 1668222485801
+    },
+    "Factions/Harpers.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668209169882,
+      "modifiedDate": 1668209169882
+    },
+    "Factions/Emerald Enclave.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668209157613,
+      "modifiedDate": 1668209157613
+    },
+    "Factions/Dark Powers.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813623324,
+      "modifiedDate": 1667765146527
+    },
+    "Factions/Black Network.md": {
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 24,
+      "createdDate": 1668162947499,
+      "modifiedDate": 1668210626401
+    },
+    "Chapters/Story.md": {
+      "noteCount": 1,
+      "wordCount": 604,
+      "pageCount": 2.013333333333333,
+      "characterCount": 3521,
+      "nonWhitespaceCharacterCount": 2897,
+      "createdDate": 1667813598136,
+      "modifiedDate": 1667765146552
+    },
+    "Chapters/Chapter 9.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813641048,
+      "modifiedDate": 1667765146812
+    },
+    "Chapters/Chapter 8.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813625384,
+      "modifiedDate": 1667765146752
+    },
+    "Chapters/Chapter 7.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813556204,
+      "modifiedDate": 1667765146742
+    },
+    "Chapters/Chapter 6.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813596712,
+      "modifiedDate": 1667765146702
+    },
+    "Chapters/Chapter 5.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813570158,
+      "modifiedDate": 1667765146772
+    },
+    "Chapters/Chapter 4.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813585265,
+      "modifiedDate": 1667765146592
+    },
+    "Chapters/Chapter 3.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813556333,
+      "modifiedDate": 1667765146662
+    },
+    "Chapters/Chapter 2.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813610153,
+      "modifiedDate": 1667765146677
+    },
+    "Chapters/Chapter 15.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813583368,
+      "modifiedDate": 1667765146622
+    },
+    "Chapters/Chapter 14.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813640960,
+      "modifiedDate": 1667765146692
+    },
+    "Chapters/Chapter 13.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813645116,
+      "modifiedDate": 1667765146642
+    },
+    "Chapters/Chapter 12.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813636568,
+      "modifiedDate": 1667765146722
+    },
+    "Chapters/Chapter 11.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 4,
+      "nonWhitespaceCharacterCount": 4,
+      "createdDate": 1667813584227,
+      "modifiedDate": 1667765146785
+    },
+    "Chapters/Chapter 10.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667813598510,
+      "modifiedDate": 1667765146607
+    },
+    "Chapters/Chapter 1.md": {
+      "noteCount": 1,
+      "wordCount": 419,
+      "pageCount": 1.3966666666666667,
+      "characterCount": 2359,
+      "nonWhitespaceCharacterCount": 1931,
+      "createdDate": 1667813569717,
+      "modifiedDate": 1668223012630
+    },
+    "Chapters/Adventure Hooks.md": {
+      "noteCount": 1,
+      "wordCount": 3514,
+      "pageCount": 11.713333333333333,
+      "characterCount": 20888,
+      "nonWhitespaceCharacterCount": 17310,
+      "createdDate": 1667904534519,
+      "modifiedDate": 1668210640036
+    }
+  }
+}

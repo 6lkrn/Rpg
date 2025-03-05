@@ -1,0 +1,7 @@
+---
+title: Compulsion
+updated: 2021-06-13 02:30:42Z
+created: 2018-07-24 20:13:35Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="compulsion"><strong>Compulsion</strong></h1><p><em>4th-level enchantment</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 30 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Concentration, up to 1 minute</p></blockquote></li></ul><p> </p><p>Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can’t be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must u se as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make</p><p>another Wisdom saving to try to end the effect.</p><p> </p><p>A target isn’t compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.</p><p> </p></td></tr></tbody></table>

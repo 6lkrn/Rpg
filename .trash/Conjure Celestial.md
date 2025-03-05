@@ -1,0 +1,7 @@
+---
+title: Conjure Celestial
+updated: 2021-06-13 02:31:30Z
+created: 2018-07-24 20:18:50Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="conjure-celestial"><strong>Conjure Celestial</strong></h1><p>7th-level conjuration</p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 minute</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 90 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Concentration, up to 1 hour</p></blockquote></li></ul><p> </p><p>You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.</p><p> </p><p>The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment. If you don’t issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.</p><p> </p><p>The DM has the celestial’s statistics.</p><p> </p><p> </p><p><strong>At Higher Levels.</strong> When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.</p><p> </p></td></tr></tbody></table>

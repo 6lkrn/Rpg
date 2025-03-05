@@ -1,0 +1,7 @@
+---
+title: Commune
+updated: 2021-06-13 02:30:23Z
+created: 2018-07-24 20:11:42Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="commune"><strong>Commune</strong></h1><p><em>5th-level divination (ritual)</em></p><ul><li><blockquote><p><strong>Casting Time</strong>: 1 minute</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Self</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M <em>(incense and a vial of holy or unholy water)</em></p></blockquote></li><li><blockquote><p><strong>Duration</strong>: 1 minute</p></blockquote></li></ul><p> </p><p>You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.</p><p> </p><p>Divine beings aren’t necessarily omniscient, so you might receive “unclear” as an answer if a question pertains to information that lies beyond the deity’s knowledge. In a case where a one-word answer could be misleading or contrary to the deity’s interests, the DM might offer a short phrase as an answer instead.</p><p> </p><p>If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.</p><p> </p></td></tr></tbody></table>

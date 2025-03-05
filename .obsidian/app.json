@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "trashOption": "local",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "livePreview": true
+}

@@ -1,0 +1,139 @@
+%% Begin Waypoint %%
+- **DM Tools**
+	- [[Calendar of Harptos 1491]]
+	- **Creating NPCs**
+		- [[NPC - Make one up, varies depending on the npc_mis]]
+		- **NPC GENERATOR**
+			- [[Creating NPC's]]
+			- [[Culture system]]
+			- [[Flaws]]
+			- [[Occupations]]
+			- [[Personality]]
+	- [[DM Screen]]
+	- [[Session 0 Rules]]
+- **[[Equipment]]**
+- **[[Images]]**
+	- [[Image.png]]
+	- [[image2.png]]
+	- [[Map]]
+- [[Naval Encounters]]
+- [[Notes]]
+- **Preparation**
+	- [[Char Creation Questions]]
+	- [[Culture system]]
+	- [[Currency]]
+	- [[DM Screen]]
+	- [[Magic Types]]
+	- [[Notes For Roman Empire]]
+	- [[Running  a Business]]
+	- [[Sailing Rules]]
+	- [[Session 0 Rules]]
+	- [[Side missions]]
+- [[Ships]]
+- **Systems**
+	- **5e**
+		- **[[Combat]]**
+			- [[Conditions]]
+			- [[Damaging Objects]]
+			- [[Improvising Damage]]
+			- [[Lingering Injuries and System Shock]]
+			- [[Movement]]
+			- [[Size]]
+			- [[Stealth and Surprise]]
+			- [[Temporary Hit Points]]
+			- [[The Environment]]
+			- [[Underwater Combat, Visibility]]
+		- **External Resources**
+			- [[Homebrew Races]]
+			- [[Homebrew Rules]]
+			- [[Sw5e Starships]]
+			- [[SW5e]]
+	- [[Aura Magic]]
+	- **Broken Sky**
+		- [[Broken Sky Core rules]]
+	- **Coc**
+		- [[Character Creation Guide]]
+	- **Harry Potter**
+		- [[Character Creation]]
+	- [[Light Years Behind Rules]]
+	- [[Log Horizon Skills]]
+	- **[[Magic]]**
+	- **Misfits**
+		- [[Character Creation Rules]]
+	- **One Piece 5e**
+		- **DM Screen**
+			- **Combat Rules**
+				- [[Actions]]
+				- [[Armor]]
+				- [[Attacks]]
+				- [[Combat Overview]]
+				- [[Conditions]]
+				- [[Cover]]
+				- [[Critical Rolls]]
+				- [[Damage and Healing]]
+				- [[Death Saving Throws]]
+				- [[Mounted Combat]]
+				- [[Movement]]
+				- [[Objects]]
+				- [[Poisons]]
+				- [[Reactions]]
+				- [[Resistance and Vulnerability]]
+				- [[Size]]
+				- [[Stealth and Surprise]]
+				- [[Temporary Hit Points]]
+				- [[The Environment]]
+				- [[Underwater Combat, Visibility]]
+			- **[[Creating Missions]]**
+			- **General Rules**
+				- **5E General Rules**
+					- [[Abilities, Ability Scores]]
+					- [[Ability Checks DC]]
+					- [[Attunement]]
+					- [[Charisma]]
+					- [[Class Creation]]
+					- [[Constitution]]
+					- [[Creature Rules]]
+					- [[Dexterity]]
+					- [[Drowning]]
+					- [[Feats]]
+					- [[Intelligence]]
+					- [[Strength]]
+					- [[Wisdom]]
+					- [[XP Advancement]]
+				- **Adventuring**
+					- [[Diseases]]
+					- [[Downtime]]
+					- [[Environmental Hazards]]
+					- [[Food and Water, Hunger and Thirst]]
+					- [[Madness]]
+					- [[Poisons]]
+					- [[Traps]]
+					- [[Traveling]]
+					- [[Vision and Light]]
+					- [[Wilderness Survival]]
+				- **[[Character Creation]]**
+				- **Monster Rules**
+					- [[Creature Size]]
+					- [[Legendary Creatures]]
+					- [[Monster AC, Hit Points]]
+					- [[Monster Speed (Burrow, Climb, Fly, Swim)]]
+	- **Paws of Fury**
+		- [[Rules]]
+	- **PF 2E**
+		- [[Action Points]]
+	- [[Redwall]]
+	- [[Starstruck]]
+	- **Swade**
+		- [[Savage Spellbook]]
+		- [[Swade Guide]]
+	- **Tales of Relea**
+		- [[Classes]]
+	- [[Walter’s Guide to Deific Obediences]]
+- **Templates**
+	- [[Captions]]
+	- [[Character]]
+	- [[Infobox]]
+	- [[Location]]
+	- [[Timeline Template]]
+
+%% End Waypoint %%

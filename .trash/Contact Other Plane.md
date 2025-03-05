@@ -1,0 +1,7 @@
+---
+title: Contact Other Plane
+updated: 2021-06-13 02:35:42Z
+created: 2018-07-24 20:23:10Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="contact-other-plane"><strong>Contact Other Plane</strong></h1><p>5th-level divination (ritual)</p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 minute</p></blockquote></li><li><blockquote><p><strong>Range:</strong> Self</p></blockquote></li><li><blockquote><p><strong>Components:</strong> V</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: 1 minute</p></blockquote></li></ul><blockquote><p> </p></blockquote><p>You mentally contact a demigod, the spirit of a long-dead sage, or some other mysterious entity from another plane. Contacting this extra-planar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can’t take actions, can’t understand what other creatures say, can’t read, and speak only in gibberish. A greater restoration spell cast on you ends this effect.</p><p> </p><p>On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as “yes,” “no,” “maybe,” “never,” “irrelevant,” or “unclear” (if the entity doesn’t know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.</p><p> </p></td></tr></tbody></table>

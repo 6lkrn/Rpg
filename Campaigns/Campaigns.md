@@ -1,0 +1,131 @@
+%% Begin Waypoint %%
+- **As DM**
+	- **1. Mines of Phandelver**
+		- [[1. Notes]]
+	- **[[2. Caermor]]**
+		- [[2. Notes]]
+	- **[[3. Pressganged]]**
+		- [[3. Notes]]
+	- **[[4. Cainari]]**
+		- [[4. Notes]]
+	- **[[5. Descent Into Avernus]]**
+		- [[5. Notes]]
+	- **[[6. Depths of Villainy]]**
+		- [[7. Notes]]
+	- **[[7. The Prince of Thieves]]**
+		- [[6. Notes]]
+	- **[[8. Light Years Behind]]**
+		- [[8. LYB Notes]]
+		- [[Reffy]]
+	- **[[9. Star Wars]]**
+		- [[9. Star Wars Notes]]
+		- [[Silver Matriarch]]
+		- [[Untitled]]
+	- **[[10. Midtown Misfits]]**
+		- [[11. Notes]]
+		- [[A MOST PECULIAR SPRING]]
+		- [[Summer Camp]]
+	- **[[11. Curse of Strahd 1]]**
+		- [[12. Notes]]
+		- [[Fighting Strahd]]
+		- [[Macabre Machinations]]
+	- **[[12. Circles of Hell]]**
+		- [[14. Circles of Hell Notes]]
+	- **[[13. Alice in Wonderland]]**
+		- [[15. AiW Notes]]
+	- **[[14. Harry Potter]]**
+		- [[17. Notes]]
+	- **[[15. Quan Derry High]]**
+		- [[18. Notes]]
+	- **16. Cursebreakers**
+		- [[19. Cb Group 1]]
+		- [[19. CB Group 2]]
+		- [[19. Notes]]
+	- **[[17. Mine 37]]**
+		- [[20. Notes]]
+	- **18. One Piece**
+		- [[21. Notes]]
+	- **[[19. Tales of Iron]]**
+		- [[22. Notes]]
+	- **[[20. Rootin Tootin n Shootin]]**
+		- [[23. Rootin Tootin n Shootin Notes]]
+	- **[[21. Starstruck Odyssey]]**
+		- [[24. Starstruck Odyssey Notes]]
+	- **22. Curse of Strahd 2**
+		- [[26. Notes]]
+	- **23. Tomb of Annihilation**
+		- [[27. Notes]]
+	- **24. Caermor**
+		- [[28. Notes]]
+	- **25. Alice in Horrorland**
+		- [[30.Notes]]
+	- **26. Edgewatch**
+	- **[[27. Shogun]]**
+		- [[16. Notes]]
+- **As Player**
+	- **[[1. Mines of Phandelver - Mjay]]**
+		- [[1. MoP Notes]]
+	- **[[2. Curse of Strahd - Marvis]]**
+		- [[2. Cos Notes]]
+	- **[[3. Stormking - Mo]]**
+		- [[3. Stormking Notes]]
+	- **[[4. Mafia - Mo]]**
+		- [[4. Mafia Notes]]
+	- **[[5. Godless - Zen]]**
+		- [[5. Godless Notes]]
+	- **[[6. Space Explorers - Zen]]**
+		- [[6. SE Notes]]
+		- [[Mothership Characters]]
+	- **7. Star Wars - Tauhu**
+		- [[7. SW - Tauhu]]
+		- [[7. SW Notes]]
+	- **[[8. Mafia - Tauhu]]**
+		- [[8. Mafia Notes]]
+	- **[[9. Pirates - Chao]]**
+		- [[9. Pirates Notes]]
+	- **[[10. Cursebreakers - Tauhu]]**
+		- [[10. Cursebreakers Notes]]
+	- **[[11. Let's Heist It - Zen]]**
+		- [[11. Let's Heist It Notes]]
+	- **[[12. Tomb of Annihilation - Tauhu]]**
+		- [[12. Tomb of Annihilation - Tauhu Notes]]
+- **Players**
+	- [[Abyss]]
+	- [[Adam]]
+	- [[Anais]]
+	- [[Anandu]]
+	- [[Ashie]]
+	- [[Balky]]
+	- [[Ben]]
+	- [[Chao]]
+	- [[Charlotte]]
+	- [[Crys]]
+	- [[Ellis]]
+	- [[Faith]]
+	- [[Harman]]
+	- [[Harvest]]
+	- [[Jace]]
+	- [[Josh]]
+	- [[Marcus]]
+	- [[Marvis]]
+	- [[Mason]]
+	- [[Mitsu]]
+	- [[Mo]]
+	- [[Musang]]
+	- [[Niki]]
+	- [[Petai]]
+	- [[Ranjeev]]
+	- [[Rawrton]]
+	- [[Redact]]
+	- [[RMC]]
+	- [[Siaopao]]
+	- [[Sophina]]
+	- [[Starry]]
+	- [[Sundew]]
+	- [[Tauhu]]
+	- [[Thierry]]
+	- [[Yianni]]
+	- [[Zen]]
+- [[Untitled]]
+
+%% End Waypoint %%

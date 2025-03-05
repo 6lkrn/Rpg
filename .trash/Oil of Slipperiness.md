@@ -1,0 +1,79 @@
+---
+title: Oil of Slipperiness
+updated: 2018-07-28 00:35:15Z
+created: 2018-07-27 18:59:47Z
+---
+
+**Oil of Slipperiness**
+
+Friday, July 27, 2018
+
+3:59 PM
+
+ 
+
+<table><tbody><tr class="odd"><td><h1 id="oil-of-slipperiness"><strong>OIL OF SLIPPERINESS</strong></h1><p><em>Potion, uncommon</em></p><p> </p><p>This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of a freedom of movement spell for 8 hours.</p><p> </p><p>Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the grease spell in that area for 8 hours.</p></td></tr></tbody></table>
+
+ 
+
+Found in:
+
+-   Dungeon Master's Guide (page: 184)
+
+-   \[FREE pdf\] SRD (page: 232)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+![](tmp\media\image1.png)
+
+Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2018 Wizards. All Rights Reserved.
+
+ 
+
+**This free Notebook is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC**. This Notebook may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. For example, Dungeons & Dragons® is a trademark\[s\] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at ([www.wizards.com](http://www.wizards.com)).

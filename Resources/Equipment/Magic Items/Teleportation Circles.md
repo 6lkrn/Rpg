@@ -1,0 +1,1 @@
+Once the party starts to travel to and fro across the north and back, it would be a good idea to have the party be made aware of the Teleportation Circles, have a Harper give a Letter of Recommendation to give to [[Krowen Valharrow]] in [[Everlund|Everlund]], and he’ll make the circles available for the party.

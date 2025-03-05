@@ -1,0 +1,7 @@
+---
+title: Chain Lightning
+updated: 2021-06-13 02:29:29Z
+created: 2018-07-24 20:05:40Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="chain-lightning"><strong>Chain Lightning</strong></h1><p><em>6th-level evocation</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 150 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M <em>(a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins)</em></p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><p> </p><p>You create a bolt of lightning that arcs toward a target of your choice that you can see within range. Three bolts then leap from that target to as many as three other targets, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.</p><p> </p><p>A target must make a Dexterity saving throw. The target takes 10d8 lightning damage on a failed save, or half as much damage on a successful one.</p><p> </p><p> </p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 7th level or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.</p><p> </p></td></tr></tbody></table>

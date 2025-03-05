@@ -1,0 +1,742 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "locked": false,
+      "lastAccessed": 1700218650575,
+      "markers": [
+        {
+          "id": "ID_88bb9bebfa79",
+          "type": "default",
+          "loc": [
+            -7.59173583984375,
+            8.091796875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_588af8c8da1a",
+          "type": "default",
+          "loc": [
+            -13.75970458984375,
+            7.701171875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28fb18fb8bc9",
+          "type": "default",
+          "loc": [
+            -13.95892333984375,
+            6.779296875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a09aa990a39",
+          "type": "default",
+          "loc": [
+            -13.9453125,
+            6.9453125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4630208333333333,
+            0.9296875
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2aaa38384a5a",
+          "type": "default",
+          "loc": [
+            -5.6640625,
+            8.0859375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2abacb987929",
+          "type": "default",
+          "loc": [
+            -14.12890625,
+            5.58984375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a992a3969b8",
+          "type": "default",
+          "loc": [
+            -13.72265625,
+            3.07421875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_382acb8848d9",
+          "type": "default",
+          "loc": [
+            -13.43359375,
+            2.90234375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b5a8a7b69ab",
+          "type": "default",
+          "loc": [
+            -13.25390625,
+            1.81640625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8aaea1b8bd9",
+          "type": "default",
+          "loc": [
+            -11.66015625,
+            1.33984375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7838998bc878",
+          "type": "default",
+          "loc": [
+            -11.47265625,
+            1.86328125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49282a4aca19",
+          "type": "default",
+          "loc": [
+            -10.83203125,
+            1.20703125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a89b95ae898",
+          "type": "default",
+          "loc": [
+            -14.232421875,
+            10.220703125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e818680b6ac8",
+          "type": "default",
+          "loc": [
+            -13.552734375,
+            11.197265625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18e8d95b3bb9",
+          "type": "default",
+          "loc": [
+            -13.736328125,
+            12.333984375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aadb6a3abb59",
+          "type": "default",
+          "loc": [
+            -13.396484375,
+            13.177734375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bab99859b828",
+          "type": "default",
+          "loc": [
+            -13.060546875,
+            14.056640625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a1ab8fa7ac8",
+          "type": "default",
+          "loc": [
+            -13.080078125,
+            14.291015625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_493b09caeb49",
+          "type": "default",
+          "loc": [
+            -7.818359375,
+            13.361328125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dac8aa0bc89a",
+          "type": "default",
+          "loc": [
+            -7.705078125,
+            13.060546875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a395bda4a3a",
+          "type": "default",
+          "loc": [
+            -7.583984375,
+            13.283203125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38499a29f8d8",
+          "type": "default",
+          "loc": [
+            -7.115234375,
+            13.583984375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaa85998ea89",
+          "type": "default",
+          "loc": [
+            -6.896484375,
+            14.318359375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bdb099a5a78",
+          "type": "default",
+          "loc": [
+            -6.107421875,
+            14.287109375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9f89b0b797b",
+          "type": "default",
+          "loc": [
+            -2.205078125,
+            11.244140625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a9b7ab9eaf9",
+          "type": "default",
+          "loc": [
+            -3.564453125,
+            13.818359375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1979ab3838a9",
+          "type": "default",
+          "loc": [
+            -12.271484375,
+            12.548828125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a1869ba5b59",
+          "type": "default",
+          "loc": [
+            -12.724609375,
+            12.271484375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9ebb9ca381b",
+          "type": "default",
+          "loc": [
+            -13.044921875,
+            11.529296875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_396839eb582b",
+          "type": "default",
+          "loc": [
+            -12.646484375,
+            11.603515625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08bba9e81b09",
+          "type": "default",
+          "loc": [
+            -12.279296875,
+            11.216796875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b88a483878cb",
+          "type": "default",
+          "loc": [
+            -12.689453125,
+            10.095703125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eadbb9e8996b",
+          "type": "default",
+          "loc": [
+            -12.181640625,
+            8.767578125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08098bb93b58",
+          "type": "default",
+          "loc": [
+            -12.251953125,
+            7.193359375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a6a8af82919",
+          "type": "default",
+          "loc": [
+            -12.455078125,
+            5.853515625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cbdb4a89b8f8",
+          "type": "default",
+          "loc": [
+            -12.705078125,
+            5.623046875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9e8380b1918",
+          "type": "default",
+          "loc": [
+            -12.572265625,
+            6.142578125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8a9caaa6a39",
+          "type": "default",
+          "loc": [
+            -12.755859375,
+            6.099609375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da68fb2a7969",
+          "type": "default",
+          "loc": [
+            -13.037109375,
+            4.517578125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f85b49e878eb",
+          "type": "default",
+          "loc": [
+            -13.119140625,
+            4.962890625
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e98958984b0a",
+          "type": "default",
+          "loc": [
+            -11.763671875,
+            5.701171875
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b98b58ea3b3a",
+          "type": "default",
+          "loc": [
+            -11.224609375,
+            4.052734375
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b1b48b8fa8a",
+          "type": "default",
+          "loc": [
+            -11.232421875,
+            3.548828125
+          ],
+          "layer": "%5B%5BKathor.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Kathor/Kathor.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

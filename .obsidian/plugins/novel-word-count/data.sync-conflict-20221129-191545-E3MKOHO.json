@@ -1,0 +1,2121 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "Curse of Strahd Campaign/Black Carriage.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 476,
+      "nonWhitespaceCharacterCount": 392,
+      "createdDate": 1669518849098,
+      "modifiedDate": 1669518849098
+    },
+    "Curse of Strahd Campaign/Planning/Fighting Strahd.md": {
+      "noteCount": 1,
+      "wordCount": 3234,
+      "pageCount": 10.78,
+      "characterCount": 18316,
+      "nonWhitespaceCharacterCount": 14905,
+      "createdDate": 1667817512664,
+      "modifiedDate": 1667817512664
+    },
+    "Curse of Strahd Campaign/Planning/Black Carriage.md": {
+      "noteCount": 1,
+      "wordCount": 209,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 1189,
+      "nonWhitespaceCharacterCount": 975,
+      "createdDate": 1668852822573,
+      "modifiedDate": 1668852822573
+    },
+    "Curse of Strahd Campaign/Planning/Unspoken Pact.md": {
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 922,
+      "nonWhitespaceCharacterCount": 855,
+      "createdDate": 1668841709270,
+      "modifiedDate": 1668841709270
+    },
+    "Curse of Strahd Campaign/Planning/The Tarokka Deck.md": {
+      "noteCount": 1,
+      "wordCount": 1627,
+      "pageCount": 5.423333333333333,
+      "characterCount": 9327,
+      "nonWhitespaceCharacterCount": 7619,
+      "createdDate": 1667765147519,
+      "modifiedDate": 1667765147519
+    },
+    "Curse of Strahd Campaign/Planning/Macabre Machinations.md": {
+      "noteCount": 1,
+      "wordCount": 868,
+      "pageCount": 2.8933333333333335,
+      "characterCount": 6519,
+      "nonWhitespaceCharacterCount": 5539,
+      "createdDate": 1667765147457,
+      "modifiedDate": 1667765147457
+    },
+    "Curse of Strahd Campaign/Planning/Barovians.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 240,
+      "createdDate": 1667765147341,
+      "modifiedDate": 1667765147341
+    },
+    "Curse of Strahd Campaign/Planning/Plot Plans.md": {
+      "noteCount": 1,
+      "wordCount": 496,
+      "pageCount": 1.6533333333333333,
+      "characterCount": 3125,
+      "nonWhitespaceCharacterCount": 2142,
+      "createdDate": 1667765147488,
+      "modifiedDate": 1667765147488
+    },
+    "Curse of Strahd Campaign/Planning/Introduction.md": {
+      "noteCount": 1,
+      "wordCount": 659,
+      "pageCount": 2.1966666666666668,
+      "characterCount": 3960,
+      "nonWhitespaceCharacterCount": 3265,
+      "createdDate": 1667765147394,
+      "modifiedDate": 1667765147394
+    },
+    "Curse of Strahd Campaign/NPC_s/Danika Dorakova.md": {
+      "noteCount": 1,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 341,
+      "nonWhitespaceCharacterCount": 271,
+      "createdDate": 1667765149392,
+      "modifiedDate": 1667765149392
+    },
+    "Curse of Strahd Campaign/NPC_s/Sorvia.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222690482,
+      "modifiedDate": 1668222690482
+    },
+    "Curse of Strahd Campaign/NPC_s/Mother Night.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668231216684,
+      "modifiedDate": 1668231216684
+    },
+    "Curse of Strahd Campaign/NPC_s/Mirabel.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222687868,
+      "modifiedDate": 1668222687868
+    },
+    "Curse of Strahd Campaign/NPC_s/Morninglord.md": {
+      "noteCount": 1,
+      "wordCount": 5,
+      "pageCount": 0.016666666666666666,
+      "characterCount": 32,
+      "nonWhitespaceCharacterCount": 27,
+      "createdDate": 1668231207758,
+      "modifiedDate": 1668231207758
+    },
+    "Curse of Strahd Campaign/NPC_s/Yevgeni Krushkin.md": {
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 532,
+      "nonWhitespaceCharacterCount": 375,
+      "createdDate": 1667765150158,
+      "modifiedDate": 1667765150158
+    },
+    "Curse of Strahd Campaign/NPC_s/Victor Vallakovich.md": {
+      "noteCount": 1,
+      "wordCount": 256,
+      "pageCount": 0.8533333333333334,
+      "characterCount": 3575,
+      "nonWhitespaceCharacterCount": 3285,
+      "createdDate": 1667765148877,
+      "modifiedDate": 1667765148877
+    },
+    "Curse of Strahd Campaign/NPC_s/Alenka.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222685549,
+      "modifiedDate": 1668222685549
+    },
+    "Curse of Strahd Campaign/NPC_s/King Barov.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222612575,
+      "modifiedDate": 1668222612575
+    },
+    "Curse of Strahd Campaign/NPC_s/Ezmerelda.md": {
+      "noteCount": 1,
+      "wordCount": 63,
+      "pageCount": 0.21,
+      "characterCount": 567,
+      "nonWhitespaceCharacterCount": 395,
+      "createdDate": 1667765149736,
+      "modifiedDate": 1669688946837
+    },
+    "Curse of Strahd Campaign/NPC_s/Strahd von Zarovich.md": {
+      "noteCount": 1,
+      "wordCount": 1881,
+      "pageCount": 6.27,
+      "characterCount": 11269,
+      "nonWhitespaceCharacterCount": 9245,
+      "createdDate": 1667765148577,
+      "modifiedDate": 1669688890517
+    },
+    "Curse of Strahd Campaign/NPC_s/Artimus.md": {
+      "noteCount": 1,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 336,
+      "nonWhitespaceCharacterCount": 261,
+      "createdDate": 1667765150518,
+      "modifiedDate": 1667765150518
+    },
+    "Curse of Strahd Campaign/NPC_s/Mishka Belview.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 369,
+      "createdDate": 1667765150409,
+      "modifiedDate": 1667765150409
+    },
+    "Curse of Strahd Campaign/NPC_s/Bella Sunbane.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 304,
+      "nonWhitespaceCharacterCount": 227,
+      "createdDate": 1667765149955,
+      "modifiedDate": 1667765149955
+    },
+    "Curse of Strahd Campaign/NPC_s/Lief Lipsiege.md": {
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 508,
+      "nonWhitespaceCharacterCount": 347,
+      "createdDate": 1667765150189,
+      "modifiedDate": 1667765150189
+    },
+    "Curse of Strahd Campaign/NPC_s/Angelika Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 370,
+      "nonWhitespaceCharacterCount": 308,
+      "createdDate": 1667765150111,
+      "modifiedDate": 1667765150111
+    },
+    "Curse of Strahd Campaign/NPC_s/Dalvan Olensky.md": {
+      "noteCount": 1,
+      "wordCount": 119,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 657,
+      "nonWhitespaceCharacterCount": 537,
+      "createdDate": 1667765149861,
+      "modifiedDate": 1667765149861
+    },
+    "Curse of Strahd Campaign/NPC_s/Kolya.md": {
+      "noteCount": 1,
+      "wordCount": 157,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 2091,
+      "nonWhitespaceCharacterCount": 1846,
+      "createdDate": 1667765149064,
+      "modifiedDate": 1667765149064
+    },
+    "Curse of Strahd Campaign/NPC_s/Stanimir.md": {
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 421,
+      "nonWhitespaceCharacterCount": 283,
+      "createdDate": 1667765149017,
+      "modifiedDate": 1667765149017
+    },
+    "Curse of Strahd Campaign/NPC_s/Sergei.md": {
+      "noteCount": 1,
+      "wordCount": 39,
+      "pageCount": 0.13,
+      "characterCount": 334,
+      "nonWhitespaceCharacterCount": 259,
+      "createdDate": 1667765148861,
+      "modifiedDate": 1667765148861
+    },
+    "Curse of Strahd Campaign/NPC_s/Ilya Krezkov.md": {
+      "noteCount": 1,
+      "wordCount": 32,
+      "pageCount": 0.10666666666666667,
+      "characterCount": 208,
+      "nonWhitespaceCharacterCount": 170,
+      "createdDate": 1667765149095,
+      "modifiedDate": 1667765149095
+    },
+    "Curse of Strahd Campaign/NPC_s/Baron Vargas Vallakovich.md": {
+      "noteCount": 1,
+      "wordCount": 152,
+      "pageCount": 0.5066666666666667,
+      "characterCount": 1305,
+      "nonWhitespaceCharacterCount": 1034,
+      "createdDate": 1667765150018,
+      "modifiedDate": 1667765150018
+    },
+    "Curse of Strahd Campaign/NPC_s/Jeny Greenteeth - DARK WITCH.md": {
+      "noteCount": 1,
+      "wordCount": 1047,
+      "pageCount": 3.49,
+      "characterCount": 5865,
+      "nonWhitespaceCharacterCount": 4621,
+      "createdDate": 1667765150502,
+      "modifiedDate": 1667765150502
+    },
+    "Curse of Strahd Campaign/NPC_s/Bray Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 390,
+      "nonWhitespaceCharacterCount": 316,
+      "createdDate": 1667765150064,
+      "modifiedDate": 1667765150064
+    },
+    "Curse of Strahd Campaign/NPC_s/Davian Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 746,
+      "nonWhitespaceCharacterCount": 545,
+      "createdDate": 1667765149377,
+      "modifiedDate": 1667765149377
+    },
+    "Curse of Strahd Campaign/NPC_s/Parriwimple.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 742,
+      "nonWhitespaceCharacterCount": 511,
+      "createdDate": 1667765148734,
+      "modifiedDate": 1667765148734
+    },
+    "Curse of Strahd Campaign/NPC_s/Willemina Rikalova.md": {
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 144,
+      "nonWhitespaceCharacterCount": 116,
+      "createdDate": 1667765148483,
+      "modifiedDate": 1667765148483
+    },
+    "Curse of Strahd Campaign/NPC_s/Gertruda.md": {
+      "noteCount": 1,
+      "wordCount": 86,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 676,
+      "nonWhitespaceCharacterCount": 501,
+      "createdDate": 1667765149658,
+      "modifiedDate": 1667765149658
+    },
+    "Curse of Strahd Campaign/NPC_s/Adrian Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 47,
+      "pageCount": 0.15666666666666668,
+      "characterCount": 424,
+      "nonWhitespaceCharacterCount": 358,
+      "createdDate": 1667765149971,
+      "modifiedDate": 1667765149971
+    },
+    "Curse of Strahd Campaign/NPC_s/Szoldar Szoldarovich.md": {
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 543,
+      "nonWhitespaceCharacterCount": 375,
+      "createdDate": 1667765150174,
+      "modifiedDate": 1667765150174
+    },
+    "Curse of Strahd Campaign/NPC_s/Dag Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 153,
+      "pageCount": 0.51,
+      "characterCount": 2074,
+      "nonWhitespaceCharacterCount": 1740,
+      "createdDate": 1667765149893,
+      "modifiedDate": 1667765149893
+    },
+    "Curse of Strahd Campaign/NPC_s/Helga Ruvak.md": {
+      "noteCount": 1,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 287,
+      "nonWhitespaceCharacterCount": 212,
+      "createdDate": 1667765150456,
+      "modifiedDate": 1667765150456
+    },
+    "Curse of Strahd Campaign/NPC_s/Wencensia.md": {
+      "noteCount": 1,
+      "wordCount": 58,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 500,
+      "nonWhitespaceCharacterCount": 354,
+      "createdDate": 1667765148782,
+      "modifiedDate": 1667765148782
+    },
+    "Curse of Strahd Campaign/NPC_s/Franz Graza.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 453,
+      "nonWhitespaceCharacterCount": 360,
+      "createdDate": 1667765149689,
+      "modifiedDate": 1667765149689
+    },
+    "Curse of Strahd Campaign/NPC_s/Arabelle.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 315,
+      "nonWhitespaceCharacterCount": 241,
+      "createdDate": 1667765150033,
+      "modifiedDate": 1667765150033
+    },
+    "Curse of Strahd Campaign/NPC_s/Godfrey Gwilym.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 635,
+      "nonWhitespaceCharacterCount": 552,
+      "createdDate": 1667765149564,
+      "modifiedDate": 1667765149564
+    },
+    "Curse of Strahd Campaign/NPC_s/Bildrath Cantemir.md": {
+      "noteCount": 1,
+      "wordCount": 79,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 711,
+      "nonWhitespaceCharacterCount": 476,
+      "createdDate": 1667765149767,
+      "modifiedDate": 1667765149767
+    },
+    "Curse of Strahd Campaign/NPC_s/Dmitri Krezkov.md": {
+      "noteCount": 1,
+      "wordCount": 149,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 2019,
+      "nonWhitespaceCharacterCount": 1827,
+      "createdDate": 1667765149423,
+      "modifiedDate": 1667765149423
+    },
+    "Curse of Strahd Campaign/NPC_s/Mad Mary.md": {
+      "noteCount": 1,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 660,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667765149361,
+      "modifiedDate": 1667765149361
+    },
+    "Curse of Strahd Campaign/NPC_s/Arik Lorensk.md": {
+      "noteCount": 1,
+      "wordCount": 146,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 1976,
+      "nonWhitespaceCharacterCount": 1691,
+      "createdDate": 1667765150049,
+      "modifiedDate": 1667765150049
+    },
+    "Curse of Strahd Campaign/NPC_s/Urwin Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 98,
+      "pageCount": 0.32666666666666666,
+      "characterCount": 830,
+      "nonWhitespaceCharacterCount": 617,
+      "createdDate": 1667765148530,
+      "modifiedDate": 1667765148530
+    },
+    "Curse of Strahd Campaign/NPC_s/Rictavio.md": {
+      "noteCount": 1,
+      "wordCount": 13,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 83,
+      "nonWhitespaceCharacterCount": 66,
+      "createdDate": 1667765148845,
+      "modifiedDate": 1667765148845
+    },
+    "Curse of Strahd Campaign/NPC_s/Patrina Velikovna.md": {
+      "noteCount": 1,
+      "wordCount": 167,
+      "pageCount": 0.5566666666666666,
+      "characterCount": 1125,
+      "nonWhitespaceCharacterCount": 858,
+      "createdDate": 1667765149033,
+      "modifiedDate": 1667765149033
+    },
+    "Curse of Strahd Campaign/NPC_s/Zygfrek Belview.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 591,
+      "nonWhitespaceCharacterCount": 400,
+      "createdDate": 1667765150346,
+      "modifiedDate": 1667765150346
+    },
+    "Curse of Strahd Campaign/NPC_s/Freek.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 313,
+      "nonWhitespaceCharacterCount": 250,
+      "createdDate": 1667765149908,
+      "modifiedDate": 1667765149908
+    },
+    "Curse of Strahd Campaign/NPC_s/Nikolai Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 643,
+      "nonWhitespaceCharacterCount": 461,
+      "createdDate": 1667765148939,
+      "modifiedDate": 1667765148939
+    },
+    "Curse of Strahd Campaign/NPC_s/Neferon.md": {
+      "noteCount": 1,
+      "wordCount": 77,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 658,
+      "nonWhitespaceCharacterCount": 442,
+      "createdDate": 1667765148766,
+      "modifiedDate": 1667765148766
+    },
+    "Curse of Strahd Campaign/NPC_s/Anna Krezkova.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 2343,
+      "nonWhitespaceCharacterCount": 2043,
+      "createdDate": 1667765150127,
+      "modifiedDate": 1667765150127
+    },
+    "Curse of Strahd Campaign/NPC_s/Yeska.md": {
+      "noteCount": 1,
+      "wordCount": 136,
+      "pageCount": 0.4533333333333333,
+      "characterCount": 1838,
+      "nonWhitespaceCharacterCount": 1609,
+      "createdDate": 1667765148640,
+      "modifiedDate": 1667765148640
+    },
+    "Curse of Strahd Campaign/NPC_s/Baba Lysaga.md": {
+      "noteCount": 1,
+      "wordCount": 75,
+      "pageCount": 0.25,
+      "characterCount": 647,
+      "nonWhitespaceCharacterCount": 399,
+      "createdDate": 1667765150565,
+      "modifiedDate": 1667765150565
+    },
+    "Curse of Strahd Campaign/NPC_s/Doru.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 379,
+      "nonWhitespaceCharacterCount": 297,
+      "createdDate": 1667765149830,
+      "modifiedDate": 1667765149830
+    },
+    "Curse of Strahd Campaign/NPC_s/Yolanda Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 713,
+      "nonWhitespaceCharacterCount": 524,
+      "createdDate": 1667765148514,
+      "modifiedDate": 1667765148514
+    },
+    "Curse of Strahd Campaign/NPC_s/Dr. Rudolph van Richten.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 580,
+      "nonWhitespaceCharacterCount": 387,
+      "createdDate": 1667765150440,
+      "modifiedDate": 1667765150440
+    },
+    "Curse of Strahd Campaign/NPC_s/Esmerelda d_Avenir.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765148452,
+      "modifiedDate": 1667765148452
+    },
+    "Curse of Strahd Campaign/NPC_s/Isabella.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149751,
+      "modifiedDate": 1667765149751
+    },
+    "Curse of Strahd Campaign/NPC_s/Clovin Belview.md": {
+      "noteCount": 1,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 511,
+      "nonWhitespaceCharacterCount": 398,
+      "createdDate": 1667765149470,
+      "modifiedDate": 1667765149470
+    },
+    "Curse of Strahd Campaign/NPC_s/Stefanio Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 584,
+      "nonWhitespaceCharacterCount": 466,
+      "createdDate": 1667765148656,
+      "modifiedDate": 1667765148656
+    },
+    "Curse of Strahd Campaign/NPC_s/Ratka.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 330,
+      "nonWhitespaceCharacterCount": 260,
+      "createdDate": 1667765149283,
+      "modifiedDate": 1667765149283
+    },
+    "Curse of Strahd Campaign/NPC_s/Argynvost.md": {
+      "noteCount": 1,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 216,
+      "nonWhitespaceCharacterCount": 165,
+      "createdDate": 1667765150393,
+      "modifiedDate": 1667765150393
+    },
+    "Curse of Strahd Campaign/NPC_s/Muriel Vinshaw.md": {
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 595,
+      "nonWhitespaceCharacterCount": 408,
+      "createdDate": 1667765148908,
+      "modifiedDate": 1667765148908
+    },
+    "Curse of Strahd Campaign/NPC_s/Pidlwick II.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 587,
+      "nonWhitespaceCharacterCount": 412,
+      "createdDate": 1667765150330,
+      "modifiedDate": 1667765150330
+    },
+    "Curse of Strahd Campaign/NPC_s/Vilnius.md": {
+      "noteCount": 1,
+      "wordCount": 112,
+      "pageCount": 0.37333333333333335,
+      "characterCount": 923,
+      "nonWhitespaceCharacterCount": 643,
+      "createdDate": 1667765148624,
+      "modifiedDate": 1667765148624
+    },
+    "Curse of Strahd Campaign/NPC_s/Rose.md": {
+      "noteCount": 1,
+      "wordCount": 779,
+      "pageCount": 2.5966666666666667,
+      "characterCount": 7228,
+      "nonWhitespaceCharacterCount": 6097,
+      "createdDate": 1667765148750,
+      "modifiedDate": 1667765148750
+    },
+    "Curse of Strahd Campaign/NPC_s/Ismark Kolyanovich.md": {
+      "noteCount": 1,
+      "wordCount": 46,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 383,
+      "nonWhitespaceCharacterCount": 310,
+      "createdDate": 1667765149173,
+      "modifiedDate": 1667765149173
+    },
+    "Curse of Strahd Campaign/NPC_s/Bluto Krogarov.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 586,
+      "nonWhitespaceCharacterCount": 402,
+      "createdDate": 1667765149705,
+      "modifiedDate": 1667765149705
+    },
+    "Curse of Strahd Campaign/NPC_s/Tasha Petrovna.md": {
+      "noteCount": 1,
+      "wordCount": 33,
+      "pageCount": 0.11,
+      "characterCount": 201,
+      "nonWhitespaceCharacterCount": 163,
+      "createdDate": 1667765150283,
+      "modifiedDate": 1667765150283
+    },
+    "Curse of Strahd Campaign/NPC_s/Dhavit.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149642,
+      "modifiedDate": 1667765149642
+    },
+    "Curse of Strahd Campaign/NPC_s/Ireena Kolyana.md": {
+      "noteCount": 1,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 653,
+      "nonWhitespaceCharacterCount": 523,
+      "createdDate": 1667765149627,
+      "modifiedDate": 1667765149627
+    },
+    "Curse of Strahd Campaign/NPC_s/Elvir Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 83,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 764,
+      "nonWhitespaceCharacterCount": 535,
+      "createdDate": 1667765149939,
+      "modifiedDate": 1667765149939
+    },
+    "Curse of Strahd Campaign/NPC_s/Yelena Arasek.md": {
+      "noteCount": 1,
+      "wordCount": 64,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 574,
+      "nonWhitespaceCharacterCount": 412,
+      "createdDate": 1667765148499,
+      "modifiedDate": 1667765148499
+    },
+    "Curse of Strahd Campaign/NPC_s/Brom Martikov.md": {
+      "noteCount": 1,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 363,
+      "nonWhitespaceCharacterCount": 289,
+      "createdDate": 1667765149548,
+      "modifiedDate": 1667765149548
+    },
+    "Curse of Strahd Campaign/NPC_s/Offalia Wormwiggle.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 326,
+      "nonWhitespaceCharacterCount": 253,
+      "createdDate": 1667765149080,
+      "modifiedDate": 1667765149080
+    },
+    "Curse of Strahd Campaign/NPC_s/Myrtle.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 320,
+      "nonWhitespaceCharacterCount": 251,
+      "createdDate": 1667765148813,
+      "modifiedDate": 1667765148813
+    },
+    "Curse of Strahd Campaign/NPC_s/Henrik van der Voort.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 277,
+      "nonWhitespaceCharacterCount": 226,
+      "createdDate": 1667765149814,
+      "modifiedDate": 1667765149814
+    },
+    "Curse of Strahd Campaign/NPC_s/Madam Eva.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 608,
+      "nonWhitespaceCharacterCount": 422,
+      "createdDate": 1667765150236,
+      "modifiedDate": 1667765150236
+    },
+    "Curse of Strahd Campaign/NPC_s/Rahadin.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 316,
+      "nonWhitespaceCharacterCount": 232,
+      "createdDate": 1667765150205,
+      "modifiedDate": 1667765150205
+    },
+    "Curse of Strahd Campaign/NPC_s/Thorn.md": {
+      "noteCount": 1,
+      "wordCount": 822,
+      "pageCount": 2.74,
+      "characterCount": 7660,
+      "nonWhitespaceCharacterCount": 6473,
+      "createdDate": 1667765150534,
+      "modifiedDate": 1667765150534
+    },
+    "Curse of Strahd Campaign/NPC_s/Bianca.md": {
+      "noteCount": 1,
+      "wordCount": 71,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 605,
+      "nonWhitespaceCharacterCount": 424,
+      "createdDate": 1667765150002,
+      "modifiedDate": 1667765150002
+    },
+    "Curse of Strahd Campaign/NPC_s/Lars Kjurls.md": {
+      "noteCount": 1,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 312,
+      "nonWhitespaceCharacterCount": 243,
+      "createdDate": 1667765150487,
+      "modifiedDate": 1667765150487
+    },
+    "Curse of Strahd Campaign/NPC_s/Donavich.md": {
+      "noteCount": 1,
+      "wordCount": 115,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 881,
+      "nonWhitespaceCharacterCount": 657,
+      "createdDate": 1667765149298,
+      "modifiedDate": 1667765149298
+    },
+    "Curse of Strahd Campaign/NPC_s/Exethanter.md": {
+      "noteCount": 1,
+      "wordCount": 587,
+      "pageCount": 1.9566666666666668,
+      "characterCount": 7067,
+      "nonWhitespaceCharacterCount": 6368,
+      "createdDate": 1667765150424,
+      "modifiedDate": 1667765150424
+    },
+    "Curse of Strahd Campaign/NPC_s/Vasilka.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 283,
+      "nonWhitespaceCharacterCount": 230,
+      "createdDate": 1667765148924,
+      "modifiedDate": 1667765148924
+    },
+    "Curse of Strahd Campaign/NPC_s/Majesto.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 555,
+      "nonWhitespaceCharacterCount": 387,
+      "createdDate": 1667765149501,
+      "modifiedDate": 1667765149501
+    },
+    "Curse of Strahd Campaign/NPC_s/Leo Dilisnya.md": {
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 285,
+      "nonWhitespaceCharacterCount": 233,
+      "createdDate": 1667765150314,
+      "modifiedDate": 1667765150314
+    },
+    "Curse of Strahd Campaign/NPC_s/Boris.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149986,
+      "modifiedDate": 1667765149986
+    },
+    "Curse of Strahd Campaign/NPC_s/Escher.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 542,
+      "nonWhitespaceCharacterCount": 376,
+      "createdDate": 1667765150299,
+      "modifiedDate": 1667765150299
+    },
+    "Curse of Strahd Campaign/NPC_s/Vladimir Horngaard.md": {
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 456,
+      "nonWhitespaceCharacterCount": 341,
+      "createdDate": 1667765149111,
+      "modifiedDate": 1667765149111
+    },
+    "Curse of Strahd Campaign/NPC_s/Haliq.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149783,
+      "modifiedDate": 1667765149783
+    },
+    "Curse of Strahd Campaign/NPC_s/Milivoj.md": {
+      "noteCount": 1,
+      "wordCount": 479,
+      "pageCount": 1.5966666666666667,
+      "characterCount": 2938,
+      "nonWhitespaceCharacterCount": 2340,
+      "createdDate": 1667765148892,
+      "modifiedDate": 1667765148892
+    },
+    "Curse of Strahd Campaign/NPC_s/Karl Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 44,
+      "pageCount": 0.14666666666666667,
+      "characterCount": 364,
+      "nonWhitespaceCharacterCount": 289,
+      "createdDate": 1667765149673,
+      "modifiedDate": 1667765149673
+    },
+    "Curse of Strahd Campaign/NPC_s/Mad Mage (Mordenkainen).md": {
+      "noteCount": 1,
+      "wordCount": 387,
+      "pageCount": 1.29,
+      "characterCount": 5038,
+      "nonWhitespaceCharacterCount": 4619,
+      "createdDate": 1667765149267,
+      "modifiedDate": 1667765149267
+    },
+    "Curse of Strahd Campaign/NPC_s/Kasimir Velikov.md": {
+      "noteCount": 1,
+      "wordCount": 86,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 480,
+      "createdDate": 1667765150096,
+      "modifiedDate": 1667765150096
+    },
+    "Curse of Strahd Campaign/NPC_s/Alek.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149736,
+      "modifiedDate": 1667765149736
+    },
+    "Curse of Strahd Campaign/NPC_s/Kiril Stoyanovich.md": {
+      "noteCount": 1,
+      "wordCount": 53,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 393,
+      "nonWhitespaceCharacterCount": 311,
+      "createdDate": 1667765149314,
+      "modifiedDate": 1667765149314
+    },
+    "Curse of Strahd Campaign/NPC_s/Khazan.md": {
+      "noteCount": 1,
+      "wordCount": 49,
+      "pageCount": 0.16333333333333333,
+      "characterCount": 320,
+      "nonWhitespaceCharacterCount": 264,
+      "createdDate": 1667765150362,
+      "modifiedDate": 1667765150362
+    },
+    "Curse of Strahd Campaign/NPC_s/Damia.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 343,
+      "nonWhitespaceCharacterCount": 271,
+      "createdDate": 1667765149439,
+      "modifiedDate": 1667765149439
+    },
+    "Curse of Strahd Campaign/NPC_s/Kellen.md": {
+      "noteCount": 1,
+      "wordCount": 57,
+      "pageCount": 0.19,
+      "characterCount": 490,
+      "nonWhitespaceCharacterCount": 347,
+      "createdDate": 1667765149486,
+      "modifiedDate": 1667765149486
+    },
+    "Curse of Strahd Campaign/NPC_s/Cyrus Belview.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 319,
+      "nonWhitespaceCharacterCount": 235,
+      "createdDate": 1667765150581,
+      "modifiedDate": 1667765150581
+    },
+    "Curse of Strahd Campaign/NPC_s/Marina.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 252,
+      "nonWhitespaceCharacterCount": 204,
+      "createdDate": 1667765149408,
+      "modifiedDate": 1667765149408
+    },
+    "Curse of Strahd Campaign/NPC_s/Madalena.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149877,
+      "modifiedDate": 1667765149877
+    },
+    "Curse of Strahd Campaign/NPC_s/Amalthia.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149798,
+      "modifiedDate": 1667765149798
+    },
+    "Curse of Strahd Campaign/NPC_s/Otto Belview.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 632,
+      "nonWhitespaceCharacterCount": 419,
+      "createdDate": 1667765150268,
+      "modifiedDate": 1667765150268
+    },
+    "Curse of Strahd Campaign/NPC_s/Gadof Blinsky.md": {
+      "noteCount": 1,
+      "wordCount": 84,
+      "pageCount": 0.28,
+      "characterCount": 1076,
+      "nonWhitespaceCharacterCount": 683,
+      "createdDate": 1667765149611,
+      "modifiedDate": 1667765149611
+    },
+    "Curse of Strahd Campaign/NPC_s/Martin Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 461,
+      "nonWhitespaceCharacterCount": 352,
+      "createdDate": 1667765149345,
+      "modifiedDate": 1667765149345
+    },
+    "Curse of Strahd Campaign/NPC_s/Morgantha.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 394,
+      "nonWhitespaceCharacterCount": 313,
+      "createdDate": 1667765148797,
+      "modifiedDate": 1667765148797
+    },
+    "Curse of Strahd Campaign/NPC_s/Lazlo Ulrich.md": {
+      "noteCount": 1,
+      "wordCount": 80,
+      "pageCount": 0.26666666666666666,
+      "characterCount": 611,
+      "nonWhitespaceCharacterCount": 432,
+      "createdDate": 1667765149048,
+      "modifiedDate": 1667765149048
+    },
+    "Curse of Strahd Campaign/NPC_s/Emil Toranescu.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 588,
+      "nonWhitespaceCharacterCount": 419,
+      "createdDate": 1667765149517,
+      "modifiedDate": 1667765149517
+    },
+    "Curse of Strahd Campaign/NPC_s/Izek Strazni.md": {
+      "noteCount": 1,
+      "wordCount": 81,
+      "pageCount": 0.27,
+      "characterCount": 676,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667765149205,
+      "modifiedDate": 1667765149205
+    },
+    "Curse of Strahd Campaign/NPC_s/Victoria.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765149924,
+      "modifiedDate": 1667765149924
+    },
+    "Curse of Strahd Campaign/NPC_s/Arrigal.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 611,
+      "nonWhitespaceCharacterCount": 448,
+      "createdDate": 1667765150252,
+      "modifiedDate": 1667765150252
+    },
+    "Curse of Strahd Campaign/NPC_s/Kolyan Indirovich.md": {
+      "noteCount": 1,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 188,
+      "nonWhitespaceCharacterCount": 152,
+      "createdDate": 1667765148970,
+      "modifiedDate": 1667765148970
+    },
+    "Curse of Strahd Campaign/NPC_s/Zuleika Toranescu.md": {
+      "noteCount": 1,
+      "wordCount": 74,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 633,
+      "nonWhitespaceCharacterCount": 459,
+      "createdDate": 1667765148718,
+      "modifiedDate": 1667765148718
+    },
+    "Curse of Strahd Campaign/NPC_s/Luvash.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 662,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667765149142,
+      "modifiedDate": 1667765149142
+    },
+    "Curse of Strahd Campaign/NPC_s/Tatyana.md": {
+      "noteCount": 1,
+      "wordCount": 26,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 142,
+      "createdDate": 1667765148593,
+      "modifiedDate": 1667765148593
+    },
+    "Curse of Strahd Campaign/NPC_s/Claudiu Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 73,
+      "pageCount": 0.24333333333333335,
+      "characterCount": 640,
+      "nonWhitespaceCharacterCount": 466,
+      "createdDate": 1667765149845,
+      "modifiedDate": 1667765149845
+    },
+    "Curse of Strahd Campaign/NPC_s/Lydia Petrovna.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 629,
+      "nonWhitespaceCharacterCount": 464,
+      "createdDate": 1667765149158,
+      "modifiedDate": 1667765149158
+    },
+    "Curse of Strahd Campaign/NPC_s/Gunther Arasek.md": {
+      "noteCount": 1,
+      "wordCount": 64,
+      "pageCount": 0.21333333333333335,
+      "characterCount": 584,
+      "nonWhitespaceCharacterCount": 413,
+      "createdDate": 1667765149580,
+      "modifiedDate": 1667765149580
+    },
+    "Curse of Strahd Campaign/NPC_s/Lucian Petrovich.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 604,
+      "nonWhitespaceCharacterCount": 431,
+      "createdDate": 1667765148955,
+      "modifiedDate": 1667765148955
+    },
+    "Curse of Strahd Campaign/NPC_s/Stella Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 153,
+      "pageCount": 0.51,
+      "characterCount": 1977,
+      "nonWhitespaceCharacterCount": 1719,
+      "createdDate": 1667765148671,
+      "modifiedDate": 1667765148671
+    },
+    "Curse of Strahd Campaign/NPC_s/Marzena Belview.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 462,
+      "nonWhitespaceCharacterCount": 349,
+      "createdDate": 1667765149236,
+      "modifiedDate": 1667765149236
+    },
+    "Curse of Strahd Campaign/NPC_s/Viggo Tomescu.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 433,
+      "nonWhitespaceCharacterCount": 337,
+      "createdDate": 1667765148561,
+      "modifiedDate": 1667765148561
+    },
+    "Curse of Strahd Campaign/NPC_s/The Abbot.md": {
+      "noteCount": 1,
+      "wordCount": 82,
+      "pageCount": 0.2733333333333333,
+      "characterCount": 670,
+      "nonWhitespaceCharacterCount": 481,
+      "createdDate": 1667765148687,
+      "modifiedDate": 1667765148687
+    },
+    "Curse of Strahd Campaign/NPC_s/Ernst Larnak.md": {
+      "noteCount": 1,
+      "wordCount": 79,
+      "pageCount": 0.2633333333333333,
+      "characterCount": 647,
+      "nonWhitespaceCharacterCount": 463,
+      "createdDate": 1667765149252,
+      "modifiedDate": 1667765149252
+    },
+    "Curse of Strahd Campaign/NPC_s/Savid.md": {
+      "noteCount": 1,
+      "wordCount": 205,
+      "pageCount": 0.6833333333333333,
+      "characterCount": 2459,
+      "nonWhitespaceCharacterCount": 2174,
+      "createdDate": 1667765148986,
+      "modifiedDate": 1667765148986
+    },
+    "Curse of Strahd Campaign/NPC_s/Fiona Wachter.md": {
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 774,
+      "nonWhitespaceCharacterCount": 560,
+      "createdDate": 1667765149220,
+      "modifiedDate": 1667765149220
+    },
+    "Curse of Strahd Campaign/NPC_s/Alexei.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 323,
+      "nonWhitespaceCharacterCount": 252,
+      "createdDate": 1667765150143,
+      "modifiedDate": 1667765150143
+    },
+    "Curse of Strahd Campaign/NPC_s/Udo Lukovich.md": {
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 119,
+      "nonWhitespaceCharacterCount": 103,
+      "createdDate": 1667765149189,
+      "modifiedDate": 1667765149189
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Darkness.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 41,
+      "createdDate": 1669090948632,
+      "modifiedDate": 1669171534897
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Soul Weaver.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 49,
+      "createdDate": 1669090883364,
+      "modifiedDate": 1669171610509
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Puppet Master.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 47,
+      "createdDate": 1669090905212,
+      "modifiedDate": 1669171599625
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Duke.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 46,
+      "createdDate": 1669090918552,
+      "modifiedDate": 1669171585037
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Lady.md": {
+      "noteCount": 1,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 71,
+      "nonWhitespaceCharacterCount": 64,
+      "createdDate": 1669090927508,
+      "modifiedDate": 1669171642497
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Dragon.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 24,
+      "nonWhitespaceCharacterCount": 24,
+      "createdDate": 1669090934244,
+      "modifiedDate": 1669171548681
+    },
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Warrior.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 41,
+      "createdDate": 1669090941096,
+      "modifiedDate": 1669171507793
+    },
+    "Curse of Strahd Campaign/Locations/Balinok Mountains.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222615771,
+      "modifiedDate": 1668222615771
+    },
+    "Curse of Strahd Campaign/Locations/Burgomaster's Mansion.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222683112,
+      "modifiedDate": 1668222683112
+    },
+    "Curse of Strahd Campaign/Locations/Bildrath's Mercantile.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222676181,
+      "modifiedDate": 1668222676181
+    },
+    "Curse of Strahd Campaign/Locations/Village of Barovia.md": {
+      "noteCount": 1,
+      "wordCount": 1043,
+      "pageCount": 3.4766666666666666,
+      "characterCount": 6498,
+      "nonWhitespaceCharacterCount": 5266,
+      "createdDate": 1668920556357,
+      "modifiedDate": 1668920556357
+    },
+    "Curse of Strahd Campaign/Locations/Mad Mary's Townhouse.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222680000,
+      "modifiedDate": 1668222680000
+    },
+    "Curse of Strahd Campaign/Locations/Blue Water Inn.md": {
+      "noteCount": 1,
+      "wordCount": 141,
+      "pageCount": 0.47,
+      "characterCount": 1126,
+      "nonWhitespaceCharacterCount": 945,
+      "createdDate": 1667765147983,
+      "modifiedDate": 1667765147983
+    },
+    "Curse of Strahd Campaign/Locations/Waterdeep.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668162964217,
+      "modifiedDate": 1668162964217
+    },
+    "Curse of Strahd Campaign/Locations/Raven River Crossroads.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1098,
+      "nonWhitespaceCharacterCount": 906,
+      "createdDate": 1668920000106,
+      "modifiedDate": 1668920000106
+    },
+    "Curse of Strahd Campaign/Locations/Svalich Woods.md": {
+      "noteCount": 1,
+      "wordCount": 385,
+      "pageCount": 1.2833333333333334,
+      "characterCount": 2144,
+      "nonWhitespaceCharacterCount": 1747,
+      "createdDate": 1668844960600,
+      "modifiedDate": 1668844960600
+    },
+    "Curse of Strahd Campaign/Locations/Haunted House.md": {
+      "noteCount": 1,
+      "wordCount": 1056,
+      "pageCount": 3.52,
+      "characterCount": 6812,
+      "nonWhitespaceCharacterCount": 5666,
+      "createdDate": 1667765148077,
+      "modifiedDate": 1667765148077
+    },
+    "Curse of Strahd Campaign/Locations/Burgomasters Mansion.md": {
+      "noteCount": 1,
+      "wordCount": 237,
+      "pageCount": 0.79,
+      "characterCount": 1920,
+      "nonWhitespaceCharacterCount": 1613,
+      "createdDate": 1667765147826,
+      "modifiedDate": 1667765147826
+    },
+    "Curse of Strahd Campaign/Locations/Mount Baratok.md": {
+      "noteCount": 1,
+      "wordCount": 1045,
+      "pageCount": 3.4833333333333334,
+      "characterCount": 6150,
+      "nonWhitespaceCharacterCount": 5090,
+      "createdDate": 1668918631131,
+      "modifiedDate": 1668918631131
+    },
+    "Curse of Strahd Campaign/Locations/River Ivlis.md": {
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 280,
+      "createdDate": 1668845070685,
+      "modifiedDate": 1668845070685
+    },
+    "Curse of Strahd Campaign/Locations/Luna River Crossroads.md": {
+      "noteCount": 1,
+      "wordCount": 237,
+      "pageCount": 0.79,
+      "characterCount": 1439,
+      "nonWhitespaceCharacterCount": 1199,
+      "createdDate": 1668919810452,
+      "modifiedDate": 1668919810452
+    },
+    "Curse of Strahd Campaign/Locations/Blood of the Vine Tavern.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765147598,
+      "modifiedDate": 1667765147598
+    },
+    "Curse of Strahd Campaign/Locations/Krezk.md": {
+      "noteCount": 1,
+      "wordCount": 70,
+      "pageCount": 0.23333333333333334,
+      "characterCount": 451,
+      "nonWhitespaceCharacterCount": 367,
+      "createdDate": 1667765148218,
+      "modifiedDate": 1667765148218
+    },
+    "Curse of Strahd Campaign/Locations/Amber Temple.md": {
+      "noteCount": 1,
+      "wordCount": 103,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 564,
+      "createdDate": 1667765148264,
+      "modifiedDate": 1667765148264
+    },
+    "Curse of Strahd Campaign/Locations/Blinsky Toys.md": {
+      "noteCount": 1,
+      "wordCount": 69,
+      "pageCount": 0.23,
+      "characterCount": 464,
+      "nonWhitespaceCharacterCount": 379,
+      "createdDate": 1667765148046,
+      "modifiedDate": 1667765148046
+    },
+    "Curse of Strahd Campaign/Locations/River Ivlis Crossroads.md": {
+      "noteCount": 1,
+      "wordCount": 343,
+      "pageCount": 1.1433333333333333,
+      "characterCount": 2008,
+      "nonWhitespaceCharacterCount": 1646,
+      "createdDate": 1668845277229,
+      "modifiedDate": 1668845277229
+    },
+    "Curse of Strahd Campaign/Locations/Berez.md": {
+      "noteCount": 1,
+      "wordCount": 257,
+      "pageCount": 0.8566666666666667,
+      "characterCount": 1727,
+      "nonWhitespaceCharacterCount": 1435,
+      "createdDate": 1667765148186,
+      "modifiedDate": 1667765148186
+    },
+    "Curse of Strahd Campaign/Locations/Gates of Barovia.md": {
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1207,
+      "nonWhitespaceCharacterCount": 991,
+      "createdDate": 1668844670964,
+      "modifiedDate": 1668844670964
+    },
+    "Curse of Strahd Campaign/Locations/Argynvostholt.md": {
+      "noteCount": 1,
+      "wordCount": 479,
+      "pageCount": 1.5966666666666667,
+      "characterCount": 3470,
+      "nonWhitespaceCharacterCount": 2774,
+      "createdDate": 1667765147754,
+      "modifiedDate": 1669688890373
+    },
+    "Curse of Strahd Campaign/Locations/Van Richtens Tower.md": {
+      "noteCount": 1,
+      "wordCount": 221,
+      "pageCount": 0.7366666666666667,
+      "characterCount": 1618,
+      "nonWhitespaceCharacterCount": 1284,
+      "createdDate": 1667765148343,
+      "modifiedDate": 1667765148343
+    },
+    "Curse of Strahd Campaign/Locations/Wizard of Wines.md": {
+      "noteCount": 1,
+      "wordCount": 180,
+      "pageCount": 0.6,
+      "characterCount": 1335,
+      "nonWhitespaceCharacterCount": 1107,
+      "createdDate": 1667765147660,
+      "modifiedDate": 1668995535501
+    },
+    "Curse of Strahd Campaign/Locations/Tiger Tiger.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765147582,
+      "modifiedDate": 1667765147582
+    },
+    "Curse of Strahd Campaign/Locations/Castle Ravenloft.md": {
+      "noteCount": 1,
+      "wordCount": 149,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 1067,
+      "nonWhitespaceCharacterCount": 463,
+      "createdDate": 1667765148311,
+      "modifiedDate": 1667765148311
+    },
+    "Curse of Strahd Campaign/Locations/Mount Ghakis.md": {
+      "noteCount": 1,
+      "wordCount": 18,
+      "pageCount": 0.06,
+      "characterCount": 113,
+      "nonWhitespaceCharacterCount": 90,
+      "createdDate": 1667765148140,
+      "modifiedDate": 1667765148140
+    },
+    "Curse of Strahd Campaign/Locations/Gates of Ravenloft.md": {
+      "noteCount": 1,
+      "wordCount": 354,
+      "pageCount": 1.18,
+      "characterCount": 2043,
+      "nonWhitespaceCharacterCount": 1685,
+      "createdDate": 1668853073667,
+      "modifiedDate": 1668853073667
+    },
+    "Curse of Strahd Campaign/Locations/Festival of the Blazing Sun.md": {
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 89,
+      "nonWhitespaceCharacterCount": 73,
+      "createdDate": 1667765148280,
+      "modifiedDate": 1667765148280
+    },
+    "Curse of Strahd Campaign/Locations/St Andrals Church.md": {
+      "noteCount": 1,
+      "wordCount": 144,
+      "pageCount": 0.48,
+      "characterCount": 985,
+      "nonWhitespaceCharacterCount": 808,
+      "createdDate": 1667765147676,
+      "modifiedDate": 1667765147676
+    },
+    "Curse of Strahd Campaign/Locations/Barovia.md": {
+      "noteCount": 1,
+      "wordCount": 1701,
+      "pageCount": 5.67,
+      "characterCount": 10055,
+      "nonWhitespaceCharacterCount": 8289,
+      "createdDate": 1668920220125,
+      "modifiedDate": 1668920220125
+    },
+    "Curse of Strahd Campaign/Locations/Town Square.md": {
+      "noteCount": 1,
+      "wordCount": 56,
+      "pageCount": 0.18666666666666668,
+      "characterCount": 365,
+      "nonWhitespaceCharacterCount": 304,
+      "createdDate": 1667765148155,
+      "modifiedDate": 1667765148155
+    },
+    "Curse of Strahd Campaign/Locations/Tsolenka Pass.md": {
+      "noteCount": 1,
+      "wordCount": 299,
+      "pageCount": 0.9966666666666667,
+      "characterCount": 2408,
+      "nonWhitespaceCharacterCount": 1913,
+      "createdDate": 1667765148015,
+      "modifiedDate": 1667765148015
+    },
+    "Curse of Strahd Campaign/Locations/Vallaki.md": {
+      "noteCount": 1,
+      "wordCount": 317,
+      "pageCount": 1.0566666666666666,
+      "characterCount": 2108,
+      "nonWhitespaceCharacterCount": 1734,
+      "createdDate": 1667765148296,
+      "modifiedDate": 1667765148296
+    },
+    "Curse of Strahd Campaign/Locations/Old Bonegrinder.md": {
+      "noteCount": 1,
+      "wordCount": 60,
+      "pageCount": 0.2,
+      "characterCount": 545,
+      "nonWhitespaceCharacterCount": 471,
+      "createdDate": 1667765147769,
+      "modifiedDate": 1667765147769
+    },
+    "Curse of Strahd Campaign/Locations/Church.md": {
+      "noteCount": 1,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 302,
+      "nonWhitespaceCharacterCount": 246,
+      "createdDate": 1667765148358,
+      "modifiedDate": 1667765148358
+    },
+    "Curse of Strahd Campaign/Locations/Tser Falls.md": {
+      "noteCount": 1,
+      "wordCount": 211,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 1367,
+      "nonWhitespaceCharacterCount": 1147,
+      "createdDate": 1668852679620,
+      "modifiedDate": 1668852679620
+    },
+    "Curse of Strahd Campaign/Locations/Coffin Makers Shop.md": {
+      "noteCount": 1,
+      "wordCount": 212,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1378,
+      "nonWhitespaceCharacterCount": 1061,
+      "createdDate": 1667765147810,
+      "modifiedDate": 1667765147810
+    },
+    "Curse of Strahd Campaign/Locations/Arasek Stockyard.md": {
+      "noteCount": 1,
+      "wordCount": 139,
+      "pageCount": 0.4633333333333333,
+      "characterCount": 1375,
+      "nonWhitespaceCharacterCount": 931,
+      "createdDate": 1667765148061,
+      "modifiedDate": 1667765148061
+    },
+    "Curse of Strahd Campaign/Locations/Werewolf Den.md": {
+      "noteCount": 1,
+      "wordCount": 140,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 939,
+      "nonWhitespaceCharacterCount": 778,
+      "createdDate": 1667765147874,
+      "modifiedDate": 1667765147874
+    },
+    "Curse of Strahd Campaign/Locations/St Andrals Feast.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 4,
+      "nonWhitespaceCharacterCount": 4,
+      "createdDate": 1667765147952,
+      "modifiedDate": 1667765147952
+    },
+    "Curse of Strahd Campaign/Locations/Lake Baratok.md": {
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 55,
+      "nonWhitespaceCharacterCount": 44,
+      "createdDate": 1667765148421,
+      "modifiedDate": 1667765148421
+    },
+    "Curse of Strahd Campaign/Locations/Death House.md": {
+      "noteCount": 1,
+      "wordCount": 1045,
+      "pageCount": 3.4833333333333334,
+      "characterCount": 6484,
+      "nonWhitespaceCharacterCount": 5357,
+      "createdDate": 1667765147890,
+      "modifiedDate": 1667765147890
+    },
+    "Curse of Strahd Campaign/Locations/Tser Pool Encampment.md": {
+      "noteCount": 1,
+      "wordCount": 970,
+      "pageCount": 3.2333333333333334,
+      "characterCount": 5561,
+      "nonWhitespaceCharacterCount": 4566,
+      "createdDate": 1668852150121,
+      "modifiedDate": 1668852150121
+    },
+    "Curse of Strahd Campaign/Locations/Vistani Camp.md": {
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 841,
+      "nonWhitespaceCharacterCount": 710,
+      "createdDate": 1667765147936,
+      "modifiedDate": 1667765147936
+    },
+    "Curse of Strahd Campaign/Locations/Old Svalich Road.md": {
+      "noteCount": 1,
+      "wordCount": 61,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 342,
+      "nonWhitespaceCharacterCount": 279,
+      "createdDate": 1668302709834,
+      "modifiedDate": 1668302709834
+    },
+    "Curse of Strahd Campaign/Locations/Wachterhaus.md": {
+      "noteCount": 1,
+      "wordCount": 340,
+      "pageCount": 1.1333333333333333,
+      "characterCount": 2652,
+      "nonWhitespaceCharacterCount": 2057,
+      "createdDate": 1667765147785,
+      "modifiedDate": 1667765147785
+    },
+    "Curse of Strahd Campaign/Locations/Lake Zarovich.md": {
+      "noteCount": 1,
+      "wordCount": 418,
+      "pageCount": 1.3933333333333333,
+      "characterCount": 2581,
+      "nonWhitespaceCharacterCount": 2146,
+      "createdDate": 1668855694896,
+      "modifiedDate": 1668855694896
+    },
+    "Curse of Strahd Campaign/Locations/Mad Mage of Mount Baratok.md": {
+      "noteCount": 1,
+      "wordCount": 123,
+      "pageCount": 0.41,
+      "characterCount": 955,
+      "nonWhitespaceCharacterCount": 674,
+      "createdDate": 1667765148436,
+      "modifiedDate": 1667765148436
+    },
+    "Curse of Strahd Campaign/Locations/Baba Lysagas creeping hut.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765147983,
+      "modifiedDate": 1667765147983
+    },
+    "Curse of Strahd Campaign/Locations/Yester Hill.md": {
+      "noteCount": 1,
+      "wordCount": 97,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 628,
+      "nonWhitespaceCharacterCount": 513,
+      "createdDate": 1667765148249,
+      "modifiedDate": 1667765148249
+    },
+    "Curse of Strahd Campaign/Locations/Map.md": {
+      "noteCount": 1,
+      "wordCount": 302,
+      "pageCount": 1.0066666666666666,
+      "characterCount": 2438,
+      "nonWhitespaceCharacterCount": 1835,
+      "createdDate": 1668330684998,
+      "modifiedDate": 1669688956453
+    },
+    "Curse of Strahd Campaign/Locations/Abbey of Saint Markovia.md": {
+      "noteCount": 1,
+      "wordCount": 375,
+      "pageCount": 1.25,
+      "characterCount": 2964,
+      "nonWhitespaceCharacterCount": 2505,
+      "createdDate": 1667765147723,
+      "modifiedDate": 1667765147723
+    },
+    "Curse of Strahd Campaign/Items/Kolyan Indirovich's Letter (Version 2).md": {
+      "noteCount": 1,
+      "wordCount": 150,
+      "pageCount": 0.5,
+      "characterCount": 1019,
+      "nonWhitespaceCharacterCount": 864,
+      "createdDate": 1667765147184,
+      "modifiedDate": 1667765147184
+    },
+    "Curse of Strahd Campaign/Items/Journal of Argynvost.md": {
+      "noteCount": 1,
+      "wordCount": 190,
+      "pageCount": 0.6333333333333333,
+      "characterCount": 1013,
+      "nonWhitespaceCharacterCount": 824,
+      "createdDate": 1667765147216,
+      "modifiedDate": 1667765147216
+    },
+    "Curse of Strahd Campaign/Items/Esmerelda's Journal.md": {
+      "noteCount": 1,
+      "wordCount": 1106,
+      "pageCount": 3.6866666666666665,
+      "characterCount": 6316,
+      "nonWhitespaceCharacterCount": 5167,
+      "createdDate": 1668230263177,
+      "modifiedDate": 1668230263177
+    },
+    "Curse of Strahd Campaign/Items/Sunsword.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765147091,
+      "modifiedDate": 1667765147091
+    },
+    "Curse of Strahd Campaign/Items/Blood Spear.md": {
+      "noteCount": 1,
+      "wordCount": 10,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 210,
+      "nonWhitespaceCharacterCount": 197,
+      "createdDate": 1667765147169,
+      "modifiedDate": 1667765147169
+    },
+    "Curse of Strahd Campaign/Items/Holy Symbol of Ravenkind.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765147106,
+      "modifiedDate": 1667765147106
+    },
+    "Curse of Strahd Campaign/Items/Journal of Rudolph van Richten.md": {
+      "noteCount": 1,
+      "wordCount": 786,
+      "pageCount": 2.62,
+      "characterCount": 4308,
+      "nonWhitespaceCharacterCount": 3503,
+      "createdDate": 1667765147153,
+      "modifiedDate": 1667765147153
+    },
+    "Curse of Strahd Campaign/Items/Strahd's Invitation.md": {
+      "noteCount": 1,
+      "wordCount": 114,
+      "pageCount": 0.38,
+      "characterCount": 773,
+      "nonWhitespaceCharacterCount": 655,
+      "createdDate": 1667765147278,
+      "modifiedDate": 1667765147278
+    },
+    "Curse of Strahd Campaign/Items/Tome of Strahd.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765147122,
+      "modifiedDate": 1667765147122
+    },
+    "Curse of Strahd Campaign/Items/From the Tome of Strahd.md": {
+      "noteCount": 1,
+      "wordCount": 559,
+      "pageCount": 1.8633333333333333,
+      "characterCount": 3630,
+      "nonWhitespaceCharacterCount": 3066,
+      "createdDate": 1667765147294,
+      "modifiedDate": 1667765147294
+    },
+    "Curse of Strahd Campaign/Items/Kolyan Indirovich's Letter (Version 1).md": {
+      "noteCount": 1,
+      "wordCount": 120,
+      "pageCount": 0.4,
+      "characterCount": 819,
+      "nonWhitespaceCharacterCount": 693,
+      "createdDate": 1667765147262,
+      "modifiedDate": 1667765147262
+    },
+    "Curse of Strahd Campaign/Factions/Emerald Enclave.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668209157613,
+      "modifiedDate": 1668209157613
+    },
+    "Curse of Strahd Campaign/Factions/Dark Powers.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146526,
+      "modifiedDate": 1667765146526
+    },
+    "Curse of Strahd Campaign/Factions/Harpers.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668209169881,
+      "modifiedDate": 1668209169881
+    },
+    "Curse of Strahd Campaign/Factions/Sun Chantry.md": {
+      "noteCount": 1,
+      "wordCount": 680,
+      "pageCount": 2.2666666666666666,
+      "characterCount": 5184,
+      "nonWhitespaceCharacterCount": 4492,
+      "createdDate": 1668841810679,
+      "modifiedDate": 1668841810679
+    },
+    "Curse of Strahd Campaign/Factions/Zhentarim.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668163102628,
+      "modifiedDate": 1668163102628
+    },
+    "Curse of Strahd Campaign/Factions/Black Network.md": {
+      "noteCount": 1,
+      "wordCount": 4,
+      "pageCount": 0.013333333333333334,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 24,
+      "createdDate": 1668210626401,
+      "modifiedDate": 1668210626401
+    },
+    "Curse of Strahd Campaign/Factions/Lord's Alliance.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668209137580,
+      "modifiedDate": 1668209137580
+    },
+    "Curse of Strahd Campaign/Factions/Keepers of the Feather.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222485800,
+      "modifiedDate": 1668222485800
+    },
+    "Curse of Strahd Campaign/Factions/Order of the Silver Dragon.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668222547212,
+      "modifiedDate": 1668222547212
+    },
+    "Curse of Strahd Campaign/Factions/Vistani.md": {
+      "noteCount": 1,
+      "wordCount": 1703,
+      "pageCount": 5.676666666666667,
+      "characterCount": 10297,
+      "nonWhitespaceCharacterCount": 8538,
+      "createdDate": 1668302148255,
+      "modifiedDate": 1668302148255
+    },
+    "Curse of Strahd Campaign/Chapters/Story.md": {
+      "noteCount": 1,
+      "wordCount": 604,
+      "pageCount": 2.013333333333333,
+      "characterCount": 3521,
+      "nonWhitespaceCharacterCount": 2897,
+      "createdDate": 1667765146551,
+      "modifiedDate": 1667765146551
+    },
+    "Curse of Strahd Campaign/Chapters/Adventure Hooks.md": {
+      "noteCount": 1,
+      "wordCount": 3514,
+      "pageCount": 11.713333333333333,
+      "characterCount": 20888,
+      "nonWhitespaceCharacterCount": 17310,
+      "createdDate": 1668210640036,
+      "modifiedDate": 1668210640036
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 1.md": {
+      "noteCount": 1,
+      "wordCount": 419,
+      "pageCount": 1.3966666666666667,
+      "characterCount": 2359,
+      "nonWhitespaceCharacterCount": 1931,
+      "createdDate": 1668223012629,
+      "modifiedDate": 1668223012629
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 8.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146751,
+      "modifiedDate": 1667765146751
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 5.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146771,
+      "modifiedDate": 1667765146771
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 13.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146641,
+      "modifiedDate": 1667765146641
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 14.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146691,
+      "modifiedDate": 1667765146691
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 10.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146606,
+      "modifiedDate": 1667765146606
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 2.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146676,
+      "modifiedDate": 1667765146676
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 4.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146591,
+      "modifiedDate": 1667765146591
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 9.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146811,
+      "modifiedDate": 1667765146811
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 7.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146741,
+      "modifiedDate": 1667765146741
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 3.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146661,
+      "modifiedDate": 1667765146661
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 15.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146621,
+      "modifiedDate": 1667765146621
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 11.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 4,
+      "nonWhitespaceCharacterCount": 4,
+      "createdDate": 1667765146785,
+      "modifiedDate": 1667765146785
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 6.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146701,
+      "modifiedDate": 1667765146701
+    },
+    "Curse of Strahd Campaign/Chapters/Chapter 12.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1667765146721,
+      "modifiedDate": 1667765146721
+    }
+  }
+}

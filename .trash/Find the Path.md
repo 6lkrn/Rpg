@@ -1,0 +1,7 @@
+---
+title: Find the Path
+updated: 2021-06-13 02:24:11Z
+created: 2018-07-24 21:25:41Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="find-the-path"><strong>Find the Path</strong></h1><p><em>6th-level divination</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 minute</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Self</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M <em>(a set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes— worth 100 gold and an object from the location you wish to find)</em></p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Concentration, up to 1 day</p></blockquote></li></ul><p> </p><p>This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn’t specific (such as “a green dragon’s lair”), the spell fails.</p><p> </p><p>For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination.</p><p> </p></td></tr></tbody></table>

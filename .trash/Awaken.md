@@ -1,0 +1,7 @@
+---
+title: Awaken
+updated: 2021-06-13 03:01:22Z
+created: 2018-07-24 17:41:12Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="awaken"><strong>Awaken</strong></h1><p><em>5th-level transmutation</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 8 hours</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Touch</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M (an agate worth at least 1000 gold, which the spell consumes)</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><p> </p><p>After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots,</p><p>vines, creepers, and so forth, and it gains senses similar to a human’s. Your DM chooses statistics appropriate for the awakened plant, such as the statistics for the awakened shrub or the awakened tree.</p><p> </p><p>The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.</p><p> </p></td></tr></tbody></table>

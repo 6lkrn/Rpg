@@ -1,0 +1,7 @@
+---
+title: Shatter
+updated: 2021-06-13 02:03:39Z
+created: 2018-07-25 00:18:19Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="shatter"><strong>Shatter</strong></h1><p><em>2nd-level evocation</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 60 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M <em>(a chip of mica)</em></p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><p> </p><p>A sudden loud ringing noise, painfully intense, erupts from a point of your choice within range. Each creature in a 10-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw.</p><p> </p><p>A non-magical object that isn’t being worn or carried also takes the damage if it’s in the spell's area.</p><p> </p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.</p><p> </p></td></tr></tbody></table>

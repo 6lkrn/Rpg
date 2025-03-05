@@ -1,0 +1,7 @@
+---
+title: Leomunds Tiny Hut
+updated: 2021-06-13 02:17:11Z
+created: 2018-07-24 22:54:33Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="leomunds-tiny-hut"><strong>Leomund's Tiny Hut</strong></h1><p><em>3rd-level evocation (ritual)</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 minute</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Self <em>(10-foot-radius hemisphere)</em></p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M <em>(a small crystal bead)</em></p></blockquote></li><li><blockquote><p><strong>Duration</strong>: 8 hours</p></blockquote></li></ul><p> </p><p>A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. The spell ends if you leave its area. Nine creatures of Medium size or smaller can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects are barred from passing through it. Spells and other magical effects can’t extend through the dome or be cast through it. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.</p><p> </p><p>Until the spell ends, you can command the interior to become dimly lit or dark. The dome is opaque from the outside, of any color you choose, but it is transparent from the inside.</p><p> </p></td></tr></tbody></table>

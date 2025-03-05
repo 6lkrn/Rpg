@@ -1,0 +1,1 @@
+[Blaque](Blaque.md)'s Gun

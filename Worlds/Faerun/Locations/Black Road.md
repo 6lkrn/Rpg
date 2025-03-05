@@ -1,0 +1,2 @@
+
+Technically, this route is east of [Parnast](Parnast.md), and because of that is outside the scope of this setting, but this is the route where I’ll stage the refugee crisis campaign where the catastrophes of the first three seasons of the Adventurer’s League prompts a mass of humanity to come down to the Dales and then spills over across [Anauroch](Anauroch.md). The sight of over a million people trudging across the desert totally un-provisioned will stir anyone. Finding out what to do about it? *That* would be interesting.

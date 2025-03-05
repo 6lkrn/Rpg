@@ -1,0 +1,7 @@
+---
+title: Blight
+updated: 2021-06-13 03:02:25Z
+created: 2018-07-24 19:50:37Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="blight"><strong>Blight</strong></h1><p><em>4th-level necromancy</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 30 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><p> </p><p>Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.</p><p> </p><ul><li><blockquote><p>If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.</p></blockquote></li><li><blockquote><p>If you target a non-magical plant that isn’t a creature, such as a tree or shrub, it doesn’t make a saving throw; it simply withers and dies.</p></blockquote></li></ul><p> </p><p> </p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.</p><p> </p></td></tr></tbody></table>

@@ -1,0 +1,9 @@
+---
+tags:
+  - Barovia
+---
+**Elsa Martikov** is a [[wereraven]]. She and her brother [[Davian Martikov]] are the current leaders of the [[Keepers of the Feather]].
+
+Elsa has two children, [Dagmara and](https://alberons-mistake.fandom.com/wiki/Dagmara_Martikov "Dagmara Martikov") [Fyodor](https://alberons-mistake.fandom.com/wiki/Fyodor_Martikov "Fyodor Martikov"), and three grandchildren, [Dmitri](https://alberons-mistake.fandom.com/wiki/Dmitri_Martikov "Dmitri Martikov"), [Martin](https://alberons-mistake.fandom.com/wiki/Martin_Martikov "Martin Martikov"), and [Viggo](https://alberons-mistake.fandom.com/wiki/Viggo_Martikov "Viggo Martikov"). No one knows who the father of Elsa's children or the father of her grandchildren (all of whom are Dagmara's sons) are. Both of Elsa's children and all three of her grandchildren lived with her at the [Wizard of Wines Winery](https://alberons-mistake.fandom.com/wiki/Wizard_of_Wines_Winery "Wizard of Wines Winery").
+
+Elsa helped [Lilluth](https://alberons-mistake.fandom.com/wiki/Lilluth_Chaemaer "Lilluth Chaemaer"), [Fate](https://alberons-mistake.fandom.com/wiki/Fate "Fate"), [Stellaluna](https://alberons-mistake.fandom.com/wiki/Stellaluna_Silverleaf "Stellaluna Silverleaf"), [Solaris](https://alberons-mistake.fandom.com/wiki/Solaris_Silverleaf "Solaris Silverleaf"), [Ezmerelda](https://alberons-mistake.fandom.com/wiki/Ezmerelda_d%27Avenir "Ezmerelda d'Avenir"), and [Ireena escape](https://alberons-mistake.fandom.com/wiki/Ireena_Kolyana "Ireena Kolyana") from [Vanargand](https://alberons-mistake.fandom.com/wiki/Vanargand "Vanargand") and his werewolves through secret tunnels beneath the winery. Shortly thereafter, [Strahd](https://alberons-mistake.fandom.com/wiki/Strahd_von_Zarovich "Strahd von Zarovich") had the werewolves burn the winery to the ground. Fyodor survived, but Elsa and her grandchildren are missing and presumed dead.

@@ -1,0 +1,7 @@
+---
+title: Knock
+updated: 2021-06-13 02:17:31Z
+created: 2018-07-24 22:48:30Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="knock"><strong>Knock</strong></h1><p><em>2nd-level transmutation</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: 60 feet</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V</p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Instantaneous</p></blockquote></li></ul><blockquote><p> </p></blockquote><p>Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.</p><p> </p><p>A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.</p><p> </p><p>If you choose a target that is held shut with arcane lock, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally. When you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.</p><p> </p></td></tr></tbody></table>

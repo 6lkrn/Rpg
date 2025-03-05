@@ -1,0 +1,7 @@
+---
+title: Holy Aura
+updated: 2021-06-13 02:21:53Z
+created: 2018-07-24 22:04:31Z
+---
+
+<table><tbody><tr class="odd"><td><h1 id="holy-aura"><strong>Holy Aura</strong></h1><p><em>8th-level abjuration</em></p><ul><li><blockquote><p><strong>Casting Time:</strong> 1 action</p></blockquote></li><li><blockquote><p><strong>Range</strong>: Self</p></blockquote></li><li><blockquote><p><strong>Components</strong>: V, S, M <em>(a tiny reliquary worth at least 1000 gold containing a sacred relic, such as a scrap of cloth from a saint’s robe or a piece of parchment from a religious text)</em></p></blockquote></li><li><blockquote><p><strong>Duration</strong>: Concentration, up to 1 minute</p></blockquote></li></ul><p> </p><p>Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends.</p><p> </p></td></tr></tbody></table>

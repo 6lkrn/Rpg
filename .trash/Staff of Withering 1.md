@@ -1,0 +1,81 @@
+---
+title: Staff of Withering
+updated: 2018-07-28 00:50:24Z
+created: 2018-07-27 18:59:47Z
+---
+
+**Staff of Withering**
+
+Friday, July 27, 2018
+
+3:59 PM
+
+ 
+
+<table><tbody><tr class="odd"><td><h1 id="staff-of-withering"><strong>STAFF OF WITHERING</strong></h1><p><em>Staff, rare (requires attunement by a cleric, druid, or warlock)</em></p><p> </p><p>This staff has 3 charges and regains 1d3 expended charges daily at dawn.</p><p> </p><p>The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a normal quarterstaff, and you can expend 1 charge to deal an extra 2d10 necrotic damage to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.</p></td></tr></tbody></table>
+
+ 
+
+Found in:
+
+-   Dungeon Master's Guide (page: 205)
+
+-   \[FREE pdf\] SRD (page: 246)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+![](tmp\media\image1.png)
+
+Wizards of the Coast, Dungeons & Dragons, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2018 Wizards. All Rights Reserved.
+
+ 
+
+**This free Notebook is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC**. This Notebook may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. For example, Dungeons & Dragons® is a trademark\[s\] of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at ([www.wizards.com](http://www.wizards.com)).

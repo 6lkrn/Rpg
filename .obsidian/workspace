@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "76cc4258308b9ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e76ddd82ea2a79a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Planning/Things to beat Strahd with.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d201e9ef89c7d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3d6582394a83d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c7663f72b7050a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "25631599c97a0c73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b88480362ffc0bc1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6f22e5528e40a81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7547e2dc35cf2098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729bad71015564c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Planning/Things to beat Strahd with.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "229388de6d0a0fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Planning/Things to beat Strahd with.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5571f55505bd34a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bc7e4af5bf9b40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Planning/Things to beat Strahd with.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e76ddd82ea2a79a5",
+  "lastOpenFiles": [
+    "Planning/Things to beat Strahd with.md",
+    "Planning/Vistani.md",
+    "Planning/The Tarokka Deck.md",
+    "Locations/Gates of Ravenloft.md",
+    "NPC's/Strahd von Zarovich.md",
+    "Dark Powers.md",
+    "Locations/Castle Ravenloft.md",
+    "Rudolph van Richten.md",
+    "Story.md",
+    "NPC's/Esmerelda d'Avenir.md"
+  ]
+}

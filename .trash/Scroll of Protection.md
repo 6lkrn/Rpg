@@ -1,0 +1,9 @@
+---
+title: Scroll of Protection
+updated: 2021-06-13 03:15:18Z
+created: 2018-07-27 18:59:47Z
+---
+
+**Scroll of Protection**
+
+<table><tbody><tr class="odd"><td><h1 id="scroll-of-protection"><strong>SCROLL OF PROTECTION</strong></h1><p><em>Scroll, rare</em></p><p> </p><p>Each scroll of protection works against a specific type of creature chosen by the DM or determined randomly by rolling on the following table.</p><p> </p><table><tbody><tr class="odd"><td><strong>D100</strong></td><td><strong>Creature Type</strong></td></tr><tr class="even"><td>01-10</td><td>Aberrations</td></tr><tr class="odd"><td>11-20</td><td>Beasts</td></tr><tr class="even"><td>21-30</td><td>Celestials</td></tr><tr class="odd"><td>31-40</td><td>Elementals</td></tr><tr class="even"><td>41-50</td><td>Fey</td></tr><tr class="odd"><td>51-75</td><td>Fiends</td></tr><tr class="even"><td>76-80</td><td>Plants</td></tr><tr class="odd"><td>81-00</td><td>Undead</td></tr></tbody></table><p> </p><p>Using an action to read the scroll encloses you in a invisible barrier that extends from you to form a 5-footradius, 10-foot-high cylinder. For 5 minutes, this barrier prevents creatures of the specified type from entering or affecting anything within the cylinder.</p><p> </p><p>The cylinder moves with you and remains centered on you. However, if you move in such a way that a creature of the specified type would be inside the cylinder, the effect ends.</p><p> </p><p>A creature can attempt to overcome the barrier by using an action to make a DC 15 Charisma check. On a success, the creature ceases to be affected by the barrier.</p><p> </p></td></tr></tbody></table>

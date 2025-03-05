@@ -1,0 +1,2 @@
+While they differed greatly, orcs shared certain physical qualities. Orcs of all kinds usually had stooped builds, grayish skin, and coarse black hair, with low foreheads, reddish eyes, and faces of porcine appearance that featured large lower canines similar to a [[boar]]'s tusks. They also had [[wolf]]-like ears that were pointed on the ends. Orcs were roughly the same size as humans and similar humanoids, though usually typically larger.
+

@@ -1,0 +1,6 @@
+Terran was the language of creatures from the Elemental Plane of Earth or those otherwise related to the earth in some way. Many earthsoul [[Genasi|genasi]] learned the language as well. When written, it used the Dethek script.
+
+
+Terran is a rumbling language with deep tones that reverberate through the listener.[4]
+
+It was considered a dialect of [[Primordial]], so that creatures who spoke one of the other elemental dialects such as [[Aquan]], [[Auran]] or [[Ignan]] could understand Terran and vice-versa.

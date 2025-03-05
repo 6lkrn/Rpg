@@ -1,0 +1,9 @@
+---
+title: Ooze Monster List
+updated: 2021-06-13 00:43:19Z
+created: 2018-07-27 17:30:30Z
+---
+
+# **Ooze Monster List (Alphabetical)**
+
+<table><tbody><tr class="odd"><td><table><tbody><tr class="odd"><td><strong>Monster</strong></td><td><strong>CR</strong></td><td><strong>Tag</strong></td></tr><tr class="even"><td><a href="onenote:N-Z.one#Black Pudding&amp;section-id={4708E634-CDC9-45E3-91B3-22EC67217BDC}&amp;page-id={979AC5F4-FBAC-4A38-AE49-07539C4E7886}&amp;end&amp;base-path=https://d.docs.live.net/8ef41446453a2105/Documents/Adventure Academy/SRD Reference/Monster Manual">Black pudding</a></td><td>4</td><td>—</td></tr><tr class="odd"><td><a href="onenote:N-Z.one#Gelatinous Cube&amp;section-id={4708E634-CDC9-45E3-91B3-22EC67217BDC}&amp;page-id={E2CC1BBA-BA51-4DF7-A57D-AB3D42C04B66}&amp;end&amp;base-path=https://d.docs.live.net/8ef41446453a2105/Documents/Adventure Academy/SRD Reference/Monster Manual">Gelatinous cube</a></td><td>2</td><td>—</td></tr><tr class="even"><td><a href="onenote:N-Z.one#Gray Ooze&amp;section-id={4708E634-CDC9-45E3-91B3-22EC67217BDC}&amp;page-id={1AA0280A-F08E-48CE-99DF-12D1FCEADF0A}&amp;end&amp;base-path=https://d.docs.live.net/8ef41446453a2105/Documents/Adventure Academy/SRD Reference/Monster Manual">Gray ooze</a></td><td>1/2</td><td>—</td></tr><tr class="odd"><td><a href="onenote:N-Z.one#Ochre Jelly&amp;section-id={4708E634-CDC9-45E3-91B3-22EC67217BDC}&amp;page-id={8C5DF0F8-44E0-4B81-9F6B-BEC51BB21180}&amp;end&amp;base-path=https://d.docs.live.net/8ef41446453a2105/Documents/Adventure Academy/SRD Reference/Monster Manual">Ochre jelly</a></td><td>2</td><td>—</td></tr></tbody></table></td></tr></tbody></table>

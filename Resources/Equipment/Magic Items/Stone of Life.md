@@ -1,0 +1,1 @@
+One of the 3 [[Stones of Power]]

@@ -1,0 +1,71 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "b9fb9ebf-db7d-495d-b2d6-97c56c7b906b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "8900608b-464f-4826-ae01-5773bc4b1995"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "6c67c83a-3090-4576-af53-ed10eac9b010",
+        "index": 0,
+        "menuCellId": "09894204-a877-49a3-a9b7-4e6e8c070513",
+        "creationTime": 1683190890659,
+        "lastEditedTime": 1683190890659
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "e0530d97-084d-4e23-b02a-c5f9f06bc98b"
+      },
+      {
+        "id": "3eb62a33-a302-45a5-aa15-7eaf03526a75"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "e2182ffe-bda9-41dc-a506-cb8cb18bc317",
+        "columnId": "b9fb9ebf-db7d-495d-b2d6-97c56c7b906b",
+        "rowId": "8900608b-464f-4826-ae01-5773bc4b1995",
+        "markdown": "New Column"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "95b0c253-584e-4df4-8d28-7c977bc76b65",
+        "columnId": "b9fb9ebf-db7d-495d-b2d6-97c56c7b906b",
+        "rowId": "6c67c83a-3090-4576-af53-ed10eac9b010",
+        "dateTime": null,
+        "markdown": ""
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "f523e5db-d82d-4e38-9db5-583949ee3a12",
+        "columnId": "b9fb9ebf-db7d-495d-b2d6-97c56c7b906b",
+        "rowId": "e0530d97-084d-4e23-b02a-c5f9f06bc98b",
+        "functionType": "none"
+      },
+      {
+        "id": "3bb68cf4-b77e-4830-b8b7-f6586e789bf4",
+        "columnId": "b9fb9ebf-db7d-495d-b2d6-97c56c7b906b",
+        "rowId": "3eb62a33-a302-45a5-aa15-7eaf03526a75",
+        "functionType": "none"
+      }
+    ],
+    "tags": []
+  },
+  "pluginVersion": 650
+}

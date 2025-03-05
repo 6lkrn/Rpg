@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "76cc4258308b9ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa001c4eba62e6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76ddd82ea2a79a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Players/Crys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crys"
+            }
+          },
+          {
+            "id": "6fd725e6cf54e717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abbey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abbey"
+            }
+          },
+          {
+            "id": "ba0a062dc2de8ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Tremayne and Verlayne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tremayne and Verlayne"
+            }
+          },
+          {
+            "id": "7ab675fc9d1705f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Barovia/Locations/Village of Barovia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Village of Barovia"
+            }
+          },
+          {
+            "id": "fd011ad1bf1eaff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Lane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lane"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d201e9ef89c7d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3d6582394a83d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c7663f72b7050a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25631599c97a0c73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b88480362ffc0bc1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5674630625d4d0f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393
+  },
+  "right": {
+    "id": "c6f22e5528e40a81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7547e2dc35cf2098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729bad71015564c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Worlds/Barovia/NPCs/Izek Strazni.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Izek Strazni"
+            }
+          },
+          {
+            "id": "229388de6d0a0fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaigns/Players/Crys.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Crys"
+            }
+          },
+          {
+            "id": "5571f55505bd34a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9bc7e4af5bf9b40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worlds/Barovia/NPCs/Izek Strazni.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Izek Strazni"
+            }
+          },
+          {
+            "id": "81bfdc22f8c5ce49",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "media-extended:Open media": false,
+      "obisidian-note-linker:Note Linker": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-markbase:Sync all Markbase projects": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-plugin-tagged-documents-viewer:Tagged Documents Viewer": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "87c7663f72b7050a",
+  "lastOpenFiles": [
+    "Campaigns/As Player/5. Godless - Zen/5. Godless - Zen.md",
+    "Campaigns/As DM/27. Shogun/27. Shogun.md",
+    "Campaigns/As DM/26. Edgewatch",
+    "Campaigns/As DM/29. Shogun 2/29. Notes.md",
+    "Campaigns/As DM/17. Mine 37/17. Mine 37.md",
+    "Campaigns/As DM/6. Depths of Villainy/6. Depths of Villainy.md",
+    "Untitled 4.md",
+    "Campaigns/As DM/25. The Last Calzone/25. The Last Calzone.md",
+    "Campaigns/As DM/25. The Last Calzone/25. The Last Calzone Notes.md",
+    "Campaigns/As DM/21. Starstruck Odyssey/21. Starstruck Odyssey.md",
+    "Campaigns/As DM/20. Rootin Tootin n Shootin/20. Rootin Tootin n Shootin.md",
+    "Campaigns/As DM/19. Tales of Iron/19. Tales of Iron.md",
+    "Campaigns/As DM/16. Cursebreakers/19. Cb Group 1.md",
+    "Campaigns/As DM/27. Shogun/16. Notes.md",
+    "Campaigns/As DM/15. Quan Derry High/15. Quan Derry High.md",
+    "Campaigns/As DM/14. Harry Potter/14. Harry Potter.md",
+    "Campaigns/As DM/11. Curse of Strahd 1/11. Curse of Strahd 1.md",
+    "Campaigns/As DM/7. The Prince of Thieves/7. The Prince of Thieves.md",
+    "Campaigns/As DM/16. Cursebreakers/19. Notes.md",
+    "Campaigns/As DM/16. Cursebreakers/19. CB Group 2.md",
+    "Campaigns/As DM/15. Quan Derry High/18. Notes.md",
+    "Campaigns/As DM/5. Descent Into Avernus/5. Descent Into Avernus.md",
+    "Campaigns/As DM/3. Pressganged/3. Pressganged.md",
+    "Untitled 5.md",
+    "Campaigns/As DM/3. Pressganged/3. Notes.md",
+    "Resources/Systems/Tales of Relea/Classes.md",
+    "Worlds/Barovia/NPCs/Izek Strazni.md",
+    "Untitled.canvas",
+    "Campaigns/As DM/10. Midtown Misfits",
+    "Campaigns/As DM/17. Mine 37",
+    "Campaigns/As DM/26. Caermor"
+  ]
+}

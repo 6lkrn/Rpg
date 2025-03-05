@@ -1,0 +1,7 @@
+Ignan was a language from the Elemental Plane of Fire.
+
+Ignan was a language full of sharp clicks and hisses.
+
+It was the tongue of many creatures of fire, including fire elementals; azers; efreet and jann; magmins; fire, magma, and steam mephits; and salamanders,[5] as well as fire [[Genasi|genasi]].
+
+It was considered a dialect of [[Primordial]], so that creatures who spoke one of the other elemental dialects such as [[Aquan]], [[Auran]], or [[Terran]] could understand Ignan and vice-versa.[1]

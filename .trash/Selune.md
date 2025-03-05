@@ -1,0 +1,1 @@
+Goddess of the Moon. Also known as [[Serene]].

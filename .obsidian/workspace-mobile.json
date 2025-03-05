@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "76cc4258308b9ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "baadfca52b32849b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76ddd82ea2a79a5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd67f3fbe164a2f4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da69dc2f12a1533d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "aae17242dc6b990c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "62d66f7b1582c1c2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4def4960dc052153",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e09a97407d3b6385",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e9121c29c9653852",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dd356633f7e5adb5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9bd4fe87ddac6719",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e76ddd82ea2a79a5",
+  "lastOpenFiles": [
+    "Curse of Strahd Campaign/Strahds Lieutenants/RDT_20221005_0722376273416244682466164-1.jpg",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Soul Weaver.md",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Lady.md",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Puppet Master.md",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Duke.md",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Dragon.md",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Darkness.md",
+    "Curse of Strahd Campaign/Strahds Lieutenants/The Warrior.md",
+    "Curse of Strahd Campaign/Locations/Old Bonegrinder.md",
+    "Curse of Strahd Campaign/Planning/Fighting Strahd.md"
+  ]
+}

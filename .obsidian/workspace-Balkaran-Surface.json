@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "76cc4258308b9ebd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa001c4eba62e6a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76ddd82ea2a79a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/As Player/5. Godless - Zen/5. Godless - Zen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd725e6cf54e717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abbey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba0a062dc2de8ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Tremayne and Verlayne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ab675fc9d1705f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "fd011ad1bf1eaff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Lane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d201e9ef89c7d73",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b3d6582394a83d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c7663f72b7050a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25631599c97a0c73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "session 0",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b88480362ffc0bc1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5674630625d4d0f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404
+  },
+  "right": {
+    "id": "c6f22e5528e40a81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7547e2dc35cf2098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "729bad71015564c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Tremayne and Verlayne.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "229388de6d0a0fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Tremayne and Verlayne.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5571f55505bd34a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bc7e4af5bf9b40d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worlds/Caermor/NPCs/Tremayne and Verlayne.md"
+              }
+            }
+          },
+          {
+            "id": "ce5bf71f94ada554",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-markbase:Sync all Markbase projects": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "3d-graph:3D Graph": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87c7663f72b7050a",
+  "lastOpenFiles": [
+    "Campaigns/As DM/20. Mine 37/20. Mine 37.md",
+    "Campaigns/As DM/20. Mine 37/17. Mine 37 Notes.md",
+    "Campaigns/As DM/20. Mine 37",
+    "Worlds/Caermor/NPCs/Martha.md",
+    "Worlds/Caermor/NPCs/Lane.md",
+    "Worlds/Caermor/NPCs/Tremayne and Verlayne.md",
+    "Campaigns/As DM/2. Caermor/2. Caermor Notes.md",
+    "Worlds/Caermor/NPCs/MacHeath.md",
+    "Worlds/Worlds.md",
+    "Worlds/Caermor/NPCs/Lara.md",
+    "_Ongoing Campaign/_Ongoing Campaign.md",
+    "Campaigns/As DM/2. Caermor/2. Caermor.md",
+    "Campaigns/As DM/26. Caermor/26. Notes.md",
+    "Campaigns/As DM/26. Caermor",
+    "Campaigns/As Player/5. Godless - Zen/5. Godless - Zen.md",
+    "_Ongoing Campaign/20. One Piece/Dread Sea.md",
+    "_Ongoing Campaign/20. One Piece/20. One Piece Notes.md",
+    "_Ongoing Campaign/20. One Piece/20. Attendance.md",
+    "Campaigns/As Player/1. Mines of Phandelver - Mjay/1. MoP Notes.md",
+    "Campaigns/Players/Starry.md",
+    "Campaigns/Untitled.md",
+    "Campaigns/As Player/8. Mafia - Tauhu/8. Mafia - Tauhu.md",
+    "Campaigns/As Player/11. Let's Heist It - Zen/11. Let's Heist It Notes.md",
+    "Campaigns/As Player/11. Let's Heist It - Zen/11. Let's Heist It - Zen.md",
+    "Campaigns/As Player/2. Curse of Strahd - Marvis/2. Curse of Strahd - Marvis.md",
+    "Untitled.md",
+    "Worlds/Barovia/Locations/Argynvostholt.md",
+    "Worlds/Barovia/Locations/Abbey of Saint Markovia.md"
+  ]
+}
